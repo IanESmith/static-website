@@ -1,18 +1,16 @@
-# Common Data Matching Platform
+# Home Office Delivery Performance
 
-This is just a quick test to check I'm doing it right.
+Where you can see how well we are able to deliver. Will be basics for the first weeks but then real data will start to be added.
 
-Last Update: 25 July 2017
+## Common Data Platform Status
 
-Some of the cheeses I like are:
+Just done:
 
 - Cheddar
 - Blue
 - Wensleydale
 
-## Personal things
-
-My favourite movies are:
+About to do:
 
 1. Heat
 2. Fight Club

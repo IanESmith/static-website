@@ -16,3 +16,8 @@ The scope for the MVP is still not finalised, which means we cant start tracking
 ### About to do
 * finalise the scope
 * start reporting on progress and estimated due date
+
+### Things to be aware off
+* we may need to grow the team (including user researchers, developers, security folk)
+* we're going to start planning for after MVP and agreeing the next users
+

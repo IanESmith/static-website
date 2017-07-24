@@ -4,4 +4,4 @@ Where you can see how well we are able to deliver. Will be basic for the first w
 
 Discovery | Alpha | Beta  | Live
 ------------ | ------------- | ------------ | -------------
-Content from cell 1 | [Common Data Matching Platform](/CDMP.md) | Content from cell 3 | Content from cell 4
+ | [Common Data Matching Platform](Home-Office_Performance/CDMP.md) |  | 

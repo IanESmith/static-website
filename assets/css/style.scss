@@ -499,7 +499,7 @@ hr { display: block; background: #bfc1c3; border: 0; height: 1px; margin-top: 30
 
 .circle-step-large { font-size: 19px; min-width: 38px; min-height: 38px; line-height: 38px; }
 
-# ul, ol { list-style-type: none; }
+ul, ol { list-style-type: disk; }
 
 .list, details ul { padding: 0; margin-top: 5px; margin-bottom: 20px; }
 

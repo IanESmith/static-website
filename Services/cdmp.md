@@ -17,6 +17,7 @@ Always best call out the bad news first, so....
 
  - finalise the scope
  - start reporting on progress and estimated due date
+ - add the reporting metrics to this page
 
 ### Things to be aware off
 

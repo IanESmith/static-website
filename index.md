@@ -4,7 +4,5 @@ Where you can see how well we are able to deliver. Will be basic for the first w
 
 Discovery | Alpha | Beta  | Live
 ------------ | ------------- | ------------ | -------------
-   | [Common Data Matching Platform](Services/cdmp.html)<br>
-   [Digital Permissions](Services/digital_permissions.html)
- |  | 
-
+   | [Common Data Matching Platform](Services/cdmp.html) |  | 
+   | [Digital Permissions](Services/digital_permissions.html) | |

@@ -3,7 +3,7 @@ Status as at 25 July 2017
 
 ### What is blocking us
 Always best call out the bad news first, so....
-
+<space>
 - The scope for the MVP is still not finalised, meaning we cant start tracking and reporting progress. However, the good news is that with a Product Manager in place, this should be resolved in the next few days
 
 ### Just done

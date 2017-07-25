@@ -8,7 +8,7 @@ Always best call out the bad news first, so....
 
 ### Just done
 
- - been assessed by the Service Standards team: no showstoppers but it did give us some areas to improve
+ - been assessed by the Digital Service Standard team: no showstoppers but it did give us some areas to improve
  - started joining up our plan with the Advanced Border Controls team
  - agreed Alistair McKay as the Product Manager
  - started work on the Security Epic

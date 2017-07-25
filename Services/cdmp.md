@@ -22,5 +22,3 @@ Always best call out the bad news first, so....
 
 - we'll need to grow the team (including user researchers, developers, security folk)
 - we're going to start planning for after MVP and agreeing the next users
-
-[email us](mailto:cdmp@digital.homeoffice.gov.uk)

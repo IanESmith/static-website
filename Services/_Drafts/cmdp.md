@@ -8,7 +8,7 @@ Always best call out the bad news first, so....
  - need clarity on the project managment process: is this going to be agile or waterfall?
 
 ### Just done
-- agreed scope and plan for the MVP (renaming to Release Candidate 1)
+- agreed scope and plan for the MVP (renaming to Release Candidate 1) This is to support the Advance Border Control project and will provide them a live service so they can store data
 - test strategy
  - security folks
 -  finalise the scope

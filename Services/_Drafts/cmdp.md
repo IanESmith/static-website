@@ -8,12 +8,12 @@ Always best call out the bad news first, so....
  - need clarity on the project managment process: is this going to be agile or waterfall?
 
 ### Just done
-- agreed scope and plan for the MVP (renaming to Release Candidate 1) This is to support the Advance Border Control project and will provide them a live service so they can store data
+- agreed scope and plan for the MVP (to provide the Advance Border Control project with a live service that stores data)
+- added a secturity resource (Reecca White at 50%) and a civil servant developer (daniel Martin) to the team
 - test strategy
- - security folks
 -  finalise the scope
- - start reporting on progress and estimated due date
- - add the reporting metrics to this page
+- start reporting on progress and estimated due date
+- add the reporting metrics to this page
 
 ### About to do
 
@@ -21,7 +21,6 @@ Always best call out the bad news first, so....
 -  finalise the scope
 - start reporting on progress and estimated due date
 - add the reporting metrics to this page
-
 
 ### Things to be aware off
 

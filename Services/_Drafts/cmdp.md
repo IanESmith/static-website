@@ -1,5 +1,5 @@
 ## Common Data Matching Platform
-Status as at xx Aug 201
+Status as at 8th Aug 201
 
 
 ### What is blocking us
@@ -8,17 +8,15 @@ Always best call out the bad news first, so....
  - need clarity on the project managment process: is this going to be agile or waterfall?
 
 ### Just done
-- agreed scope and plan for the MVP (to provide the Advance Border Control project with a live service that stores data)
-- added a secturity resource (Reecca White at 50%) and a civil servant developer (daniel Martin) to the team
+- confirmed the scope for the MVP (to provide the Advance Border Control project with a live service that stores data)
+- begun planning live support discussions with 
+- added a secturity resource (Rebecca White at 50%) and a civil servant developer (Daniel Martin) to the team
 - test strategy
--  finalise the scope
 - start reporting on progress and estimated due date
 - add the reporting metrics to this page
 
 ### About to do
-
-- security folks
--  finalise the scope
+- agree the scope of the security assurance for MVP and beyond
 - start reporting on progress and estimated due date
 - add the reporting metrics to this page
 

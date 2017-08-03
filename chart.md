@@ -1,7 +1,7 @@
-      <div id="chart"></div>
+<div id="chart"></div>
 
-    <script>
-      var chart = c3.generate({
+<script>
+var chart = c3.generate({
         data: {
           columns: [
             ['data1', 30, 200, 100, 400, 150, 250],
@@ -57,6 +57,5 @@
         });
         chart.axis.labels({y: 'New Y Axis Label Again'});
       }, 2000);
-
-    </script>
+</script>
 

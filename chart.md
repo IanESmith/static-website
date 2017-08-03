@@ -3,16 +3,16 @@
 var chart2 = c3.generate({
 data: {
 columns: [
-['done', 30, 20, 50, 40, 60, 50],
-['to do', 200, 130, 90, 240, 130, 220],
-['required', 300, 200, 160, 400, 250, 250],
+['done', 30, 20, , , , ],
+['to do', 200, 130, , , , ],
+['required', 9, 17, 26, 34, 43, 41],
 ],
 type: 'bar',
 types: {
-data3: 'line',
+required: 'line',
 },
 groups: [
-['data1','data2']
+['to do','done']
 ]
 }
 });

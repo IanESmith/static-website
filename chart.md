@@ -1,7 +1,7 @@
 <div id="chart"></div>
 
 <script>
-var chart = c3.generate({
+var chart1 = c3.generate({
 data: {
 columns: [
 ['data1', 30, 200, 100, 400, 150, 250],
@@ -61,7 +61,7 @@ chart.axis.labels({y: 'New Y Axis Label Again'});
 
 <div id="chart"></div>
 <script>
-var chart = c3.generate({
+var chart2 = c3.generate({
     data: {
         columns: [
             ['data1', 30, 20, 50, 40, 60, 50],

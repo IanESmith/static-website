@@ -15,19 +15,5 @@ groups: [
 ['to do','done']
 ]
 }
-
-axis: {
-x: {
-label: 'X Label'
-},
-y: {
-label: 'Y Label'
-},
-y2: {
-show: true,
-label: 'Y2 Label'
-}
-   
-
 });
 </script>

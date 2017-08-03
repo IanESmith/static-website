@@ -1,9 +1,14 @@
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
+| Phase           | Completed  | Due | Predicted|
+|:-------------| :-----:|:-----:|:-----:|
+| Release Candidate 1A | 0% |11 October 2017 | tbc |
+
+| Deliverable          | Completed  |
+|:-------------| :-----:|
+| Epic 1 | 0% |
+| Epic 2 | 0% |
+| Epic 3 | 0% |
+| Epic 4 | 0% |
 
 <div id="chart"></div>
 <script>

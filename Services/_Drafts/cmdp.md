@@ -3,9 +3,7 @@ Status as at 8th Aug 201
 
 
 ### What is blocking us
-Always best call out the bad news first, so....
 
- - need clarity on the project managment process: is this going to be agile or waterfall?
 
 ### Just done
 - confirmed the scope for the MVP (to provide the Advance Border Control project with a live service that stores data)
@@ -22,6 +20,7 @@ Always best call out the bad news first, so....
 
 ### Things to be aware off
 
- - we'll need to grow the team (including user researchers, developers, security folk)
- - we're going to start planning for after MVP and agreeing the next users
+ - we'll need to grow the team (including user researchers and developers)
+ - need clarity on the project managment process: is this going to be agile or waterfall?
+-  we've lost our tech lead. 
 

@@ -1,7 +1,7 @@
   <div id="chart"></div>
 
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-    <script src="/js/c3.js"></script>
+    <script src="/assets/c3/c3.js"></script>
     <script>
       var chart = c3.generate({
         data: {

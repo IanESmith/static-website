@@ -1,10 +1,10 @@
 <div id="chart"></div>
 <script>
-var chart2 = c3.generate({
+var chart = c3.generate({
 data: {
 columns: [
-['done', 30, 20, , , , ],
-['to do', 200, 130, , , , ],
+['done', 30, 20, , , , ,],
+['to do', 200, 130, , , , ,],
 ['required', 9, 17, 26, 34, 43, 41],
 ],
 type: 'bar',

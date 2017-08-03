@@ -3,8 +3,8 @@
 var chart = c3.generate({
 data: {
 columns: [
-['done', 30, 20, , , , ,],
-['to do', 200, 130, , , , ,],
+['done', 3, 5, 8, 10, 12, 13],
+['to do', 2, 3, 4, 5, 6, 7],
 ['required', 9, 17, 26, 34, 43, 41],
 ],
 type: 'bar',

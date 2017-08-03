@@ -16,7 +16,6 @@ groups: [
 ]
 }
 
-
 axis: {
 x: {
 label: 'Sprints'
@@ -28,8 +27,6 @@ y2: {
 show: true,
 label: 'Y2 Label'
 }
-}
-
 
 });
 </script>

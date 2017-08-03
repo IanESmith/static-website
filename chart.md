@@ -15,5 +15,21 @@ groups: [
 ['to do','done']
 ]
 }
+
+
+axis: {
+x: {
+label: 'Sprints'
+},
+y: {
+label: 'Story Points'
+},
+y2: {
+show: true,
+label: 'Y2 Label'
+}
+}
+
+
 });
 </script>

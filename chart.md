@@ -11,22 +11,6 @@ type: 'bar',
 types: {
 required: 'spline',
 },
-groups: [
-['to do','done']
-]
-}
-
-axis: {
-x: {
-label: 'Sprints'
-},
-y: {
-label: 'Story Points'
-},
-y2: {
-show: true,
-label: 'Y2 Label'
-}
-
-});
+groups: [ 
+['to do','done'] ] } });
 </script>

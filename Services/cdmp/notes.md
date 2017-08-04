@@ -41,24 +41,27 @@ Release Candidate 1 status as at 8th Aug 201
 
 <div id="chart"></div>
 <script>
-var chart = c3.generate({
+
+var chart = c3.generate
+(
+{
 data: {
 columns: [
 ['done', 0.3, 0, 0, 0, 0, 0],
 ['to do', 51.8, 0, 0, 0, 0, 0],
 ['required', 9, 17, 26, 35, 43, 52],
-]
-},
-
-color: {
-pattern: ['#0A68F9', '#06C909','#06C909']
-},
+],
 
 type: 'bar',
 types: {
-required: 'spline',
+required: 'line',
 },
-
 groups: [ 
-['to do','done'] ] } });
+['to do','done'] ] } 
+
+}
+)
+;
+
 </script>
+

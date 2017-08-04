@@ -26,12 +26,6 @@
 
 ### Metrics
 
-| Goal  | Completed  | Due | Predicted|
-|:-----| :-----:|:-----:|:-----:|
-|A live accredited and supported platform for Advance Border Controls | 0% |11-Oct-17 | tbc |
-
-------
-
 | Deliverable | Completed  |
 |:-------------| :-----:|
 | [Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88)| 0% |

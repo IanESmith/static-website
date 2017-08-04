@@ -52,12 +52,13 @@ columns: [
 
 color: {
 pattern: ['#0A68F9', '#06C909','#06C909']
-}
+},
 
 type: 'bar',
 types: {
 required: 'spline',
 },
+
 groups: [ 
 ['to do','done'] ] } });
 </script>

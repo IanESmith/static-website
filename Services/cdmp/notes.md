@@ -24,10 +24,12 @@ Status as at 8th Aug 201
 
 ### Release Candidate 1 Metrics
 
+#### Summary
 | Goal  | Completed  | Due | Predicted|
 |:-----| :-----:|:-----:|:-----:|
 |A live accredited and supported platform for Advance Border Controls. | 0% |11 Oct 2017 | tbc |
 
+#### Detail
 | Deliverable | Completed  |
 |:-------------| :-----:|
 | [Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88)| 0% |
@@ -38,6 +40,7 @@ Status as at 8th Aug 201
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 25% |
 | [A plan for our next set of customers](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)| 0% |
 
+#### Burn up
 <div id="chart"></div>
 <script>
 var chart = c3.generate({

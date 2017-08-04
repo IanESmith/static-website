@@ -6,17 +6,25 @@ Status as at 8th Aug 201
 
 
 ### Just done
+
+- agree the scope of the security assurance for MVP and beyond
+- start reporting on progress and estimated due date
+- add the reporting metrics to this page
+- finalise the live support model
+
 - confirmed the scope for the MVP (to provide the Advance Border Control project with a live service that stores data)
 - begun planning live support discussions with 
 - added a secturity resource (Rebecca White at 50%) and a civil servant developer (Daniel Martin) to the team
 - test strategy
-- start reporting on progress and estimated due date
+- started reporting on progress and estimated due date
 - add the reporting metrics to this page
 
 ### About to do
 - agree the scope of the security assurance for MVP and beyond
 - start reporting on progress and estimated due date
 - add the reporting metrics to this page
+- finalise the live support model
+- started reporting on estimated due date
 
 ### Things to be aware off
 

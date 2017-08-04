@@ -51,23 +51,13 @@ columns: [
 ['required', 9, 17, 26, 35, 43, 52],
 ],
 
-
-axis: {
-x: {
-label: 'X Label'
-},
-y: {
-label: 'Y Label'
-},
-
-
 type: 'bar',
 types: {
 required: 'spline',
 },
 groups: [ 
 ['to do','done'] ] 
-},
+}
 
 });
 

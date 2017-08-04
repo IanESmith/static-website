@@ -63,7 +63,6 @@ axis: {
   y: {
     label: 'Your Y Axis'
   }
-}
 
 
 }

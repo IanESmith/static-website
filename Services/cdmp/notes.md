@@ -23,7 +23,7 @@ Release Candidate 1 status as at 8th Aug 201
 
 | Goal  | Completed  | Due | Predicted|
 |:-----| :-----:|:-----:|:-----:|
-|A live accredited and supported platform for Advance Border Controls. | 0% |11 Oct 2017 | tbc |
+|A live accredited and supported platform for Advance Border Controls. | 0% |11-Oct-17 | tbc |
 
 ------
 
@@ -50,7 +50,7 @@ columns: [
 ],
 
 color: {
-pattern: ['#0A68F9', '#06C909']
+pattern: ['#0A68F9', '#06C909','#06C909']
 }
 
 type: 'bar',

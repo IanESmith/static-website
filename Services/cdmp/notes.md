@@ -54,15 +54,15 @@ columns: [
 
 type: 'bar',
 types: {
-required: 'line',
+required: 'spline',
 },
 groups: [ 
 ['to do','done'] ] } 
-
 
 }
 )
 ;
 
 </script>
+
 

@@ -19,7 +19,7 @@ Release Candidate 1 status as at 8th Aug 201
 
 - we'll need to grow the team (including tech lead, user researchers and developers)
 
-## Release Candidate 1 Metrics
+### Metrics
 This may be the first time youve seen these metrics and the chart. Very happy to explain if you want to pop by.
 
 | Goal  | Completed  | Due | Predicted|

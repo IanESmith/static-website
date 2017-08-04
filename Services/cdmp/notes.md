@@ -6,14 +6,12 @@ Status as at 8th Aug 201
 - We've no longer have a tech lead. The team can continue in the short term but this is a blocker
 
 ### Just done
-
-- start reporting on progress
-- add the reporting metrics to this page
+- start reporting on progres and added reporting metrics to this page
 - added a (part time) security resource
 
 ### About to do
 
-- agree the scope of the security assurance for Release Candidate 1 and beyond
+- agree the scope of the security assurance for Release Candidate 1
 - start reporting on estimated due date
 - finalise the live support model
 
@@ -25,11 +23,13 @@ Status as at 8th Aug 201
 ### Release Candidate 1 Metrics
 
 #### Summary
+
 | Goal  | Completed  | Due | Predicted|
 |:-----| :-----:|:-----:|:-----:|
 |A live accredited and supported platform for Advance Border Controls. | 0% |11 Oct 2017 | tbc |
 
 #### Detail
+
 | Deliverable | Completed  |
 |:-------------| :-----:|
 | [Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88)| 0% |

@@ -59,11 +59,6 @@ required: 'line',
 groups: [ 
 ['to do','done'] ] } 
 
-axis: {
-  y: {
-    label: 'Your Y Axis'
-  }
-
 
 }
 )

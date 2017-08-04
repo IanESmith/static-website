@@ -48,6 +48,11 @@ columns: [
 ['to do', 51.8, 0, 0, 0, 0, 0],
 ['required', 9, 17, 26, 35, 43, 52],
 ],
+
+color: {
+pattern: ['#0A68F9', '#06C909']
+}
+
 type: 'bar',
 types: {
 required: 'spline',

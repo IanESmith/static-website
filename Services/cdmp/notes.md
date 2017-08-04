@@ -20,15 +20,16 @@ Status as at 8th Aug 201
 
 - we'll need to grow the team (including tech lead, user researchers and developers)
 
-### Release Candidate 1 Metrics
+## Release Candidate 1 Metrics
+This may be the first time youve seen these metrics and the chart. Very happy to explain if you want to pop by.
 
-#### Summary
+### Summary
 
 | Goal  | Completed  | Due | Predicted|
 |:-----| :-----:|:-----:|:-----:|
 |A live accredited and supported platform for Advance Border Controls. | 0% |11 Oct 2017 | tbc |
 
-#### Detail
+### Detail
 
 | Deliverable | Completed  |
 |:-------------| :-----:|
@@ -40,7 +41,8 @@ Status as at 8th Aug 201
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 25% |
 | [A plan for our next set of customers](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)| 0% |
 
-#### Burn up
+### Burn up
+
 <div id="chart"></div>
 <script>
 var chart = c3.generate({

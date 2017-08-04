@@ -46,9 +46,9 @@ Status as at 8th Aug 201
 var chart = c3.generate({
 data: {
 columns: [
-['done', 0, 0, 0, 0, 0, 0],
-['to do', 51, 0, 0, 0, 0, 0],
-['required', 9, 17, 26, 34, 43, 51],
+['done', 0.3, 0, 0, 0, 0, 0],
+['to do', 51.8, 0, 0, 0, 0, 0],
+['required', 9, 17, 26, 35, 43, 52],
 ],
 type: 'bar',
 types: {

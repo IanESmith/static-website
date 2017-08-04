@@ -3,20 +3,20 @@ Status as at 8th Aug 201
 
 
 ### What is blocking us
-- We've lost out tech lead. The team can continue in the short term but this is a blocker
+- We've no longer have a tech lead. The team can continue in the short term but this is a blocker
 
 ### Just done
 
 - start reporting on progress
 - add the reporting metrics to this page
-- added a secturity resource (Rebecca White at 50%) and a civil servant developer (Daniel Martin) to the team
-- test strategy
+- added a (part time) security resource
 
 ### About to do
 
 - agree the scope of the security assurance for Release Candidate 1 and beyond
 - start reporting on estimated due date
 - finalise the live support model
+
 
 ### Things to be aware off
 

@@ -65,8 +65,8 @@ label: 'Y Label'
 y2: {
 show: true,
 label: 'Y2 Label'
-}
-}
+},
+
 
 
 

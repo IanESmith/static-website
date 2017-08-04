@@ -1,5 +1,10 @@
 ## Common Data Matching Platform
-Release Candidate 1 status as at 8th Aug 201
+
+| Release Candidate 1 status as at 8th Aug 201  | Completed  | Due | Predicted|
+|:-----| :-----:|:-----:|:-----:|
+|A live accredited and supported platform for Advance Border Controls | 0% |11-Oct-17 | tbc |
+
+
 
 ### What is blocking us
 - We've no longer have a tech lead. The team can continue in the short term but this is a blocker

@@ -3,41 +3,30 @@ Status as at 8th Aug 201
 
 
 ### What is blocking us
-
+- We've lost out tech lead. The team can continue in the short term but this is a blocker
 
 ### Just done
 
-- agree the scope of the security assurance for MVP and beyond
-- start reporting on progress and estimated due date
+- start reporting on progress
 - add the reporting metrics to this page
-- finalise the live support model
-
-- confirmed the scope for the MVP (to provide the Advance Border Control project with a live service that stores data)
-- begun planning live support discussions with 
 - added a secturity resource (Rebecca White at 50%) and a civil servant developer (Daniel Martin) to the team
 - test strategy
-- started reporting on progress and estimated due date
-- add the reporting metrics to this page
 
 ### About to do
-- agree the scope of the security assurance for MVP and beyond
-- start reporting on progress and estimated due date
-- add the reporting metrics to this page
+
+- agree the scope of the security assurance for Release Candidate 1 and beyond
+- start reporting on estimated due date
 - finalise the live support model
-- started reporting on estimated due date
 
 ### Things to be aware off
 
- - we'll need to grow the team (including user researchers and developers)
- - need clarity on the project managment process: is this going to be agile or waterfall?
--  we've lost our tech lead. 
+- we'll need to grow the team (including tech lead, user researchers and developers)
 
-### Metrics
-The next goal is Release Candidate 1, a live accredited and supported platform for Advance Border Controls.
+### Release Candidate 1 Metrics
 
-| Completed  | Due | Predicted|
-| :-----:|:-----:|:-----:|
-| 0% |11 October 2017 | tbc |
+| Goal  | Completed  | Due | Predicted|
+|:-----| :-----:|:-----:|:-----:|
+|A live accredited and supported platform for Advance Border Controls. | 0% |11 Oct 2017 | tbc |
 
 | Deliverable | Completed  |
 |:-------------| :-----:|

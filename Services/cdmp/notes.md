@@ -67,17 +67,13 @@ show: true,
 label: 'Y2 Label'
 },
 
-
-
-
 type: 'bar',
 types: {
 required: 'spline',
 },
 groups: [ 
 ['to do','done'] ] 
-
-} 
+},
 
 });
 

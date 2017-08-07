@@ -13,7 +13,8 @@
 
 ### Just done
 - start reporting on progres and added reporting metrics to this page
-- added a (part time) security resource 
+- added a (part time) security resource
+
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa)
 
 ### About to do/doing

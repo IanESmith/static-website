@@ -9,16 +9,20 @@
 ### What is blocking us
 - Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. I'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
 
+[Click here for all blockers](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13109)
+
 ### Just done
 - start reporting on progres and added reporting metrics to this page
 - added a (part time) security resource 
+[Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa)
 
-### About to do
+### About to do/doing
 
 - agree the scope of the security assurance for Release Candidate 1
 - start reporting on estimated due date based on the team velocity
 - finalise the live support model
 
+[Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13111)
 
 ### Things to be aware off
 
@@ -35,6 +39,8 @@
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) | 0% |
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 25% |
 | [A plan for our next set of customers](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)| 0% |
+
+[Click here for the detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13107)
 
 ### Burn up
 

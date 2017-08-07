@@ -7,22 +7,22 @@
 
 
 ### What is blocking us
-- We've no longer have a tech lead. The team can continue in the short term but this is a blocker
+- Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. I'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
 
 ### Just done
 - start reporting on progres and added reporting metrics to this page
-- added a (part time) security resource
+- added a (part time) security resource 
 
 ### About to do
 
 - agree the scope of the security assurance for Release Candidate 1
-- start reporting on estimated due date
+- start reporting on estimated due date based on the team velocity
 - finalise the live support model
 
 
 ### Things to be aware off
 
-- we'll need to grow the team (including tech lead, user researchers and developers)
+- we're tracking to the October dates to sync with our ABC colleagues. This is a very challenging deadline so we may need to adjust (or reduce scope) in the coming days
 
 ### Metrics
 

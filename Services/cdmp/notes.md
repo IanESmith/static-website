@@ -78,7 +78,7 @@ groups: [
 
 <div id="chart"></div>
 <script>
-var chart = c3.generate({
+var chart2 = c3.generate({
 data: {
 columns: [
 ['sample', 30, 200, 100, 400, 150, 250],

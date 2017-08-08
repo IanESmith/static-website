@@ -64,6 +64,10 @@ columns: [
 ['required', 9, 17, 26, 35, 43, 52],
 ],
 
+axes: {
+sample2: 'y2'
+}
+},
 
 axis: {
 x: {

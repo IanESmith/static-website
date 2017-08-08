@@ -57,7 +57,7 @@ data: {
 columns: [
 ['done', 0.3, 0, 0, 0, 0, 0],
 ['to do', 51.8, 0, 0, 0, 0, 0],
-['required', 9, 17, 26, 35, 43, 52],
+['required', 9, 17, 26, 35, 43, 52]
 ],
 
 type: 'bar',
@@ -66,8 +66,21 @@ required: 'spline',
 },
 groups: [ 
 ['to do','done'] ] 
-}
-
+},
+axes: {
+            data1: 'y',
+            data2: 'y2'
+        }
+    },
+    axis: {
+        y: {
+            label: 'Y Axis Label'
+        },
+        y2: {
+            show: true,
+            label: 'Y2 Axis Label'
+        }
+    }
 });
 
 </script>

@@ -15,6 +15,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 [Click here for all blockers](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13109)
 
 ### Just done
+- changed the name of this phase from MVP to Release Candidate 1
 - start reporting on progres and added reporting metrics to this page
 - added a (part time) security resource
 - sized the work and started tracking progress

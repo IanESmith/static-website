@@ -49,9 +49,12 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 ### Burn up
 
+<div id="chart"></div>
 <script>
 
-var chart = c3.generate ({
+var chart = c3.generate
+(
+{
 data: {
 columns: [
 ['done', 0.3, 0, 0, 0, 0, 0],
@@ -63,9 +66,8 @@ type: 'bar',
 types: {
 required: 'spline',
 },
-groups: [
-['to do','done']
-]
+groups: [ 
+['to do','done'] ] 
 }
 
 });

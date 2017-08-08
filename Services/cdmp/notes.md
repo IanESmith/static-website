@@ -1,5 +1,12 @@
 ## Common Data Matching Platform
 
+
+### What are we doing
+Working with our Advanced Border Control colleagues to provide a platform for their data.  We're doing this in two steps:
+- Release 1A (test data through ABC and stored on CDP)
+- Release 1B	(live data, accredited, supported via Service Now)
+
+
 | Status as at 8th Aug 201  | Completed  | Due | Predicted|
 |:-----| :-----:|:-----:|:-----:|
 |Release 1A (Test data) | 0% |11-Oct-17 | tbc |
@@ -30,17 +37,25 @@
 
 - we're tracking to the October dates to sync with our ABC colleagues. This is a very challenging deadline so we may need to adjust (or reduce scope) in the coming days
 
-### Metrics
+### Metrics for Release Candidate 1A
+
+| Deliverable | Completed  |
+|:-------------| :-----:|
+| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 0% |
+| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 0% |
+| [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86)| 0% |
+
 
 | Deliverable | Completed  |
 |:-------------| :-----:|
 | [Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88)| 0% |
 | [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 0% |
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 0% |
-| [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86)| 0% |
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) | 0% |
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 25% |
 | [A plan for our next set of customers](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)| 0% |
+
+
 
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13107)

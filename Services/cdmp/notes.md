@@ -61,23 +61,6 @@ columns: [
 ['required', 9, 17, 26, 35, 43, 52],
 ],
 
-axes: {
-sample2: 'y2'
-}
-},
-axis: {
-x: {
-label: 'X Label'
-},
-y: {
-label: 'Y Label'
-},
-y2: {
-show: true,
-label: 'Y2 Label'
-}
-},
-
 type: 'bar',
 types: {
 required: 'spline',
@@ -86,7 +69,6 @@ groups: [
 ['to do','done'] ] 
 }
 
-}
 
 });
 

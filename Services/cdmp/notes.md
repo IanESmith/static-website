@@ -36,15 +36,12 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 | Deliverable | Completed  |
 |:-------------| :-----:|
-| [Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88)| 0% |
-| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 0% |
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 0% |
+| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 0% |
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) | 0% |
+| [Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88)| 0% |
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 25% |
 | [A plan for our next set of customers](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)| 0% |
-
-
-
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13107)
 

@@ -17,6 +17,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 ### Just done
 - start reporting on progres and added reporting metrics to this page
 - added a (part time) security resource
+- sized the work and started tracking progress
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa)
 
@@ -31,6 +32,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 ### Things to be aware off
 
 - we're tracking to the October dates to sync with our ABC colleagues. This is a very challenging deadline so we may need to adjust (or reduce scope) in the coming days
+- the scope is still a little unclear so working with ABC tomorrow to finalise
 
 ### Metrics for Release Candidate 1
 
@@ -48,6 +50,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 ### Burn up
 
 <script>
+
 var chart = c3.generate ({
 data: {
 columns: [

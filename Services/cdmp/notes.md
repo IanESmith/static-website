@@ -53,36 +53,12 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 <div id="chart"></div>
 <script>
-
-var chart = c3.generate
-(
-{
+var chart = c3.generate({
 data: {
 columns: [
 ['done', 0.3, 0, 0, 0, 0, 0],
 ['to do', 51.8, 0, 0, 0, 0, 0],
 ['required', 9, 17, 26, 35, 43, 52],
-],
-
-type: 'bar',
-types: {
-required: 'spline',
-},
-groups: [ 
-['to do','done'] ] 
-}
-
-});
-
-</script>
-
-<div id="chart"></div>
-<script>
-var chart2 = c3.generate({
-data: {
-columns: [
-['sample', 30, 200, 100, 400, 150, 250],
-['sample2', 130, 300, 200, 500, 250, 350]
 ],
 
 axes: {
@@ -100,6 +76,16 @@ y2: {
 show: true,
 label: 'Y2 Label'
 }
+},
+
+type: 'bar',
+types: {
+required: 'spline',
+},
+groups: [ 
+['to do','done'] ] 
 }
+
 });
+
 </script>

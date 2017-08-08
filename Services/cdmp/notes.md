@@ -1,8 +1,9 @@
 ## Common Data Matching Platform
 
-| Release Candidate 1 status as at 8th Aug 201  | Completed  | Due | Predicted|
+| Status as at 8th Aug 201  | Completed  | Due | Predicted|
 |:-----| :-----:|:-----:|:-----:|
-|A live accredited and supported platform for Advance Border Controls | 0% |11-Oct-17 | tbc |
+|Release 1A (Test data) | 0% |11-Oct-17 | tbc |
+|Release 1B (Live & accredited) | 0% |tbc | tbc |
 
 
 

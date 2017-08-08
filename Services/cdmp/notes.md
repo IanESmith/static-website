@@ -2,7 +2,7 @@
 
 | Status as at 8th Aug 201  | Completed  | Due | Predicted|
 |:-----| :-----:|:-----:|:-----:|
-|Release 1B  | 0% |11-Oct-17 | tbc |
+|Release Candidate 1  | 0% |11-Oct-17 | tbc |
 
 ### What are we doing
 Working with our Advanced Border Control colleagues to provide a platform for their data.  We're doing this in two steps:
@@ -10,7 +10,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 - Release 1B	(live data, accredited, supported via Service Now)
 
 ### What is blocking us
-- Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. I'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
+- Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
 
 [Click here for all blockers](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13109)
 

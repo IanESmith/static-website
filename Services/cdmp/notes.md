@@ -1,18 +1,13 @@
 ## Common Data Matching Platform
 
+| Status as at 8th Aug 201  | Completed  | Due | Predicted|
+|:-----| :-----:|:-----:|:-----:|
+|Release 1B  | 0% |11-Oct-17 | tbc |
 
 ### What are we doing
 Working with our Advanced Border Control colleagues to provide a platform for their data.  We're doing this in two steps:
 - Release 1A (test data through ABC and stored on CDP)
 - Release 1B	(live data, accredited, supported via Service Now)
-
-
-| Status as at 8th Aug 201  | Completed  | Due | Predicted|
-|:-----| :-----:|:-----:|:-----:|
-|Release 1A (Test data) | 0% |11-Oct-17 | tbc |
-|Release 1B (Live & accredited) | 0% |tbc | tbc |
-
-
 
 ### What is blocking us
 - Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. I'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
@@ -37,14 +32,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 - we're tracking to the October dates to sync with our ABC colleagues. This is a very challenging deadline so we may need to adjust (or reduce scope) in the coming days
 
-### Metrics for Release Candidate 1A
-
-| Deliverable | Completed  |
-|:-------------| :-----:|
-| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 0% |
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 0% |
-| [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86)| 0% |
-
+### Metrics for Release Candidate 1
 
 | Deliverable | Completed  |
 |:-------------| :-----:|

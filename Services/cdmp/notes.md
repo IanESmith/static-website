@@ -16,6 +16,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 ### Just done
 - changed the name of this phase from MVP to Release Candidate 1
+- moved the hosting from Ireland to the United Kingdom
 - start reporting on progress and added reporting metrics to this page
 - added a (part time) security resource
 - sized the work and started tracking progress

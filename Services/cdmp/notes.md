@@ -60,8 +60,8 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 var chart = c3.generate({
 data: {
 columns: [
-['done', 0.3, 0, 0, 0, 0, 0],
-['to do', 51.8, 0, 0, 0, 0, 0],
+['done', 15.3, 0, 0, 0, 0, 0],
+['to do', 42.8, 0, 0, 0, 0, 0],
 ['required', 9, 17, 26, 35, 43, 52],
 ],
 

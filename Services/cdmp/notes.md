@@ -16,7 +16,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 ### Just done
 - changed the name of this phase from MVP to Release Candidate 1
-- start reporting on progres and added reporting metrics to this page
+- start reporting on progress and added reporting metrics to this page
 - added a (part time) security resource
 - sized the work and started tracking progress
 
@@ -24,8 +24,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 ### About to do/doing
 
-- agree the scope of the security assurance for Release Candidate 1
-- start reporting on estimated due date based on the team velocity
+- build the plan for accreditation of the services (A.B.C,/C.D.P./I.B.M>)
 - finalise the live support model
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13111)
@@ -33,7 +32,6 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 ### Things to be aware off
 
 - we're tracking to the October dates to sync with our ABC colleagues. This is a very challenging deadline so we may need to adjust end dates (or reduce scope) in the coming days
-- the ABC scope is still a little unclear, so we're working closely with them to finalise
 - ive provided some links to the Jira instance we use so you can drill down if you need (but cant guarantee that everyone will have Jira access so may remove these links if thats the case)
 
 ### Metrics for Release Candidate 1

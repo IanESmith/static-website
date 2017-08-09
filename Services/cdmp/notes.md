@@ -1,8 +1,8 @@
 ## Common Data Matching Platform
 
-| Status as at 8th Aug 201  | Completed  | Due | Predicted|
+| Status as at 8th Aug 201  | Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1  | 0% |11-Oct-17 | tbc |
+|Release Candidate 1  | 16% |25-Oct-17 | 25-Oct-17 |
 
 ### What are we doing
 Working with our Advanced Border Control colleagues to provide a platform for their data.  We're doing this in two steps:
@@ -40,12 +40,16 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 | Deliverable | Completed  |
 |:-------------| :-----:|
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 0% |
-| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 0% |
+| 1A| 30% |
+| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% |
+| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 25% |
+| [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 0% |
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) | 0% |
+| 1B| 0% |
+| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 0% |
 | [Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88)| 0% |
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 25% |
-| [A plan for our next set of customers](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)| 0% |
+| [Privacy principles for Global Data Protection Regulation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 0% |
 
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13107)

@@ -24,7 +24,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 ### About to do/doing
 
-- build the plan for accreditation of the services (A.B.C,/C.D.P./I.B.M>)
+- build the plan for accreditation of the services (ABC/CDP/IBM)
 - finalise the live support model
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13111)
@@ -39,11 +39,11 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 | Deliverable | Completed  |
 |:-------------| :-----:|
 | 1A| 30% |
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% |
+| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) |  |
 | [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 25% |
 | [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 0% |
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) | 0% |
-| 1B| 0% |
+| 1B|  |
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 0% |
 | [Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88)| 0% |
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 25% |

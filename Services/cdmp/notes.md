@@ -32,9 +32,9 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 ### Things to be aware off
 
-- we're tracking to the October dates to sync with our ABC colleagues. This is a very challenging deadline so we may need to adjust (or reduce scope) in the coming days
+- we're tracking to the October dates to sync with our ABC colleagues. This is a very challenging deadline so we may need to adjust end dates (or reduce scope) in the coming days
 - the ABC scope is still a little unclear, so we're working closely with them to finalise
-- ive provided some links to the Jira instance we use so you can drill down if you need (but cant guarantee that everyone will have access so may remove these links if thats the case)
+- ive provided some links to the Jira instance we use so you can drill down if you need (but cant guarantee that everyone will have Jira access so may remove these links if thats the case)
 
 ### Metrics for Release Candidate 1
 

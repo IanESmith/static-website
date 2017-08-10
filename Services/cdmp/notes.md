@@ -40,7 +40,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 | Deliverable | Completed  |
 |:-------------| :-----:|
 | 1A|  |
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) |  |
+| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% |
 | [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 25% |
 | [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 0% |
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) | 0% |

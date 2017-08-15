@@ -59,10 +59,25 @@ columns: [
 ['required', 8, 17, 25, 33, 41, 50, 58],
 ],
 
+axes: {
+sample2: 'y2'
+}
+},
 axis: {
 x: {
-label: 'Sprints'
+label: 'X Label'
 },
+
+y: {
+label: 'Y Label'
+},
+
+y2: {
+show: true,
+label: 'Y2 Label'
+}
+},
+
 
 type: 'bar',
 types: {

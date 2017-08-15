@@ -71,10 +71,6 @@ groups: [
 
 });
 
-</script>
-
-<div id="chart2"></div>
-<script>
 var chart2 = c3.generate({
     data: {
         columns: [
@@ -89,4 +85,6 @@ var chart2 = c3.generate({
         groups: [['data1', 'data2']]
     }
 });
+
 </script>
+

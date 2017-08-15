@@ -77,26 +77,26 @@ groups: [
 var chart = c3.generate({
 data: {
 columns: [
-['I don't know whats going on', 2.8, 1.5],
-['I feel like I am working on my own', 3.2, 100],
-['I feel like work is being pushed on me', 3.6, 100],
-['I dont feel my work contributes to the goal', 2.8, 100],
-['I am not happy with my working environment', 2.8, 100],
-['I am not happy with my working environment', 2.8, 100],
-['I dont get time to improve my skills/knowledge', 2.8, 100],
-['I dont get enough time to tackle technical debt', 2.8, 100],
-['I dont feel I can raise anything with the whole team', 2.8, 100]
+['data1', 2.8, 1.5],
+['data2', 3.2, 100],
+['data3', 3.6, 100],
+['data4', 2.8, 100],
+['data5', 2.8, 100],
+['data6', 2.8, 100],
+['data7', 2.8, 100],
+['data8', 2.8, 100],
+['data9', 2.8, 100]
 ],
 types: {
 data1: 'line',
-data1: 'line',
-data1: 'line',
-data1: 'line',
-data1: 'line',
-data1: 'line',
-data1: 'line',
-data1: 'line',
-data2: 'line'
+data2: 'line',
+data3: 'line',
+data4: 'line',
+data5: 'line',
+data6: 'line',
+data7: 'line',
+data8: 'line',
+data9: 'line'
 
 },
 groups: [['data1', 'data2', 'data3', 'data4', 'data5', 'data6', 'data7', 'data8', 'data9']]

@@ -74,34 +74,36 @@ groups: [
 
 
 <div id="chart1"></div>
-<span style="font-size:16px;">  var chart = c3.generate({
-      data: {
-           columns:[
-                ['Test',10,20]
-              ],
-           type: 'bar'
-            },
-          bar: {
-            width: {
-              ratio: 0.8
-             }
-          },
-         bindto: '#chart1'
-    });
- </span>
+<script>
+var chart = c3.generate({
+data: {
+columns:[
+['Test',10,20]],
+type: 'bar'
+},
+bar: {
+width: {
+ratio: 0.8
+}
+},
+bindto: '#chart1'
+});
+</script>
 
 <div id="chart2"></div>
-<span style="font-size:16px;">  var chart = c3.generate({
-      data: {
-           columns:[
-                ['Test',10,20]
-              ],
-           type: 'bar'
-            },
-          bar: {
-            width: {
-              ratio: 0.6
-             }
-          },
-         bindto: '#chart2'
-    });</span>
+<script>
+var chart = c3.generate({
+data: {
+columns:[
+['Test',10,20]
+],
+type: 'bar'
+},
+bar: {
+width: {
+ratio: 0.6
+}
+},
+bindto: '#chart2'
+});
+</script>

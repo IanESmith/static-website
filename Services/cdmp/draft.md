@@ -59,6 +59,10 @@ columns: [
 ['required', 8, 17, 25, 33, 41, 50, 58],
 ],
 
+axis: {
+x: {
+label: 'Sprints'
+},
 
 type: 'bar',
 types: {

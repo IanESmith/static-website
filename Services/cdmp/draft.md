@@ -83,16 +83,22 @@ bindto: '#chart'
 var chart = c3.generate({
 data: {
 columns: [
-['data1', 2.8, 1.5],
-['data2', 3.2, 100],
-['data3', 3.6, 100],
-['data4', 2.8, 100],
-['data5', 2.8, 100],
-['data6', 2.8, 100],
-['data7', 2.8, 100],
-['data8', 2.8, 100],
-['data9', 2.8, 100]
+['data1', 2.8, 3.3],
+['data2', 2.8, 4.0],
+['data3', 3.2, 3.5],
+['data4', 3.2, 3.8],
+['data5',3.0, 4.5],
+['data6', 3.0, 3.8],
+['data7', 3.4, 2.8],
+['data8', 2.6, 3.5],
+['data9', 4.0, 3.5],
+['data10', 3.2, 4.0],
+['data11', 4.0, 3.8],
+['data12', 3.2, 3.0]
 ],
+
+											
+
 types: {
 data1: 'line',
 data2: 'line',
@@ -102,10 +108,13 @@ data5: 'line',
 data6: 'line',
 data7: 'line',
 data8: 'line',
-data9: 'line'
+data9: 'line',
+data10: 'line',
+data11: 'line',
+data12: 'line'
 
 },
-groups: [['data1', 'data2', 'data3', 'data4', 'data5', 'data6', 'data7', 'data8', 'data9']]
+groups: [['data1', 'data2', 'data3', 'data4', 'data5', 'data6', 'data7', 'data8', 'data9','data10','data11','data12']]
 },
 
 bindto: '#chart1'

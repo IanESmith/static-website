@@ -17,6 +17,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 ### Just done
 - finalised the plan for accreditation of the services (ABC/ CDP/IBM)
 - finalised the (light touch) live support model using Service Now
+- added team health metrics to this 
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa)
 

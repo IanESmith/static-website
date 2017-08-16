@@ -53,7 +53,9 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 <script>
 var chart = c3.generate({
 data: {
+
 columns: [
+['x', 'Sprint 1', 'Sprint 2', 'Sprint 3', 'Sprint 4', 'Sprint 5', 'Sprint 6', 'Sprint 7'],
 ['done', 15.3, 0, 0, 0, 0, 0, 0],
 ['to do', 42.8, 0, 0, 0, 0, 0, 0],
 ['required', 8, 17, 25, 33, 41, 50, 58],

@@ -17,7 +17,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 ### Just done
 - finalised the plan for accreditation of the services (ABC/ CDP/IBM)
 - finalised the (light touch) live support model using Service Now
-- added team health metrics to this 
+- added team health metrics to this page
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa)
 
@@ -56,8 +56,8 @@ var chart = c3.generate({
 data: {
 
 columns: [
-['done', 15.3, 0, 0, 0, 0, 0, 0],
-['to do', 42.8, 0, 0, 0, 0, 0, 0],
+['done', 15.3, 14, 0, 0, 0, 0, 0],
+['to do', 42.8, 44, 0, 0, 0, 0, 0],
 ['required', 8, 17, 25, 33, 41, 50, 58],
 ],
 

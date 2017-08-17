@@ -96,23 +96,23 @@ columns: [
 ['data10', 3.2, 4.0],
 ['data11', 4.0, 3.8],
 ['data12', 3.2, 3.0]
-]
-    
-names: {
-data1: 'I don't know whats going on',
-data2: 'I feel like I am working on my own',
-data3: 'I feel like work is being pushed on me',
-data4: 'I dont know what work is next',
-data5: 'I dont feel my work contributes to the goal',
-data6: 'I am not happy with my working environment',
-data7: 'I dont get time to improve my skills/knowledge',
-data8: 'I dont get enough time to tackle technical debt',
-data9: 'I dont feel I can raise anything with the whole team',
-data10: 'I dont feel my voice is being heard',
-data11: 'I dont feel supported by my team',
-data12: 'I dont understand the work that I am doing'
-},
+],
 
+names: 
+{
+data1: 'line',
+data2: 'line',
+data3: 'line',
+data4: 'line',
+data5: 'line',
+data6: 'line',
+data7: 'line',
+data8: 'line',
+data9: 'line',
+data10: 'line',
+data11: 'line',
+data12: 'line' },
+    
 types: {
 data1: 'line',
 data2: 'line',
@@ -126,7 +126,6 @@ data9: 'line',
 data10: 'line',
 data11: 'line',
 data12: 'line'
-
 },
 
 groups: 

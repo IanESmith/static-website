@@ -98,6 +98,12 @@ columns: [
 ['data12', 3.2, 3.0]
 ],
     
+},
+legend: {
+position: 'right'
+},
+    
+    
 names: {
 data1: 'line',
 data2: 'line',

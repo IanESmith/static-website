@@ -19,7 +19,7 @@ We are also starting to onboard HMPO
 - updated the due dates in line with ABC plans
 - finalised the plan for accreditation of the platform and started the work
 - added team health metrics to this page
-- with some scope changes, a few of the epics have been added or increased/decreased) in size (reflected in the metrics/burndown)
+- with some scope changes, a few of the epics have been added or increased/decreased in size. This is reflected in the metrics/burndown
 - created the complete [roadmap for all the ABC and CDP releases](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201)
 - met with Neeraj Dad and Gary OReilly to start planning onboarding HMPO
 

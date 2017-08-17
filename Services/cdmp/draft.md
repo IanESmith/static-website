@@ -10,7 +10,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 - Release 1A (test data through ABC and stored on CDP)
 - Release 1B (live data, accredited, supported via Service Now)
 
-Builing a roadmap to onboard HMPO
+We are also starting to onboard HMPO
 
 ### What is blocking us
 - Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.

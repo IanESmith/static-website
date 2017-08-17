@@ -97,8 +97,8 @@ columns: [
 ['data11', 4.0, 3.8],
 ['data12', 3.2, 3.0]
 ],
-names: {
 
+names: {
 data1: 'line',
 data2: 'line',
 data3: 'line',
@@ -111,7 +111,6 @@ data9: 'line',
 data10: 'line',
 data11: 'line',
 data12: 'line'
-}
 },
 											
 

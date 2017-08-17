@@ -96,7 +96,7 @@ columns: [
 ['data10', 3.2, 4.0],
 ['data11', 4.0, 3.8],
 ['data12', 3.2, 3.0]
-], 
+]
     
 names: {
 data1: 'I don't know whats going on',
@@ -112,7 +112,6 @@ data10: 'I dont feel my voice is being heard',
 data11: 'I dont feel supported by my team',
 data12: 'I dont understand the work that I am doing'
 },
-
 
 types: {
 data1: 'line',

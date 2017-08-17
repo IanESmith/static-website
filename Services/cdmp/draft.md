@@ -2,8 +2,8 @@
 
 | Status as at 8th Aug 201  | Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1A  | 16% |25-Oct-17 | 25-Oct-17 |
-|Release Candidate 1B  | 0% |March 2018 | March 2018 |
+|Release Candidate 1A  | 25% |25-Oct-17 | 25-Oct-17 |
+|Release Candidate 1B  | 2% |March 2018 | March 2018 |
 
 ### Summary
 Working with our Advanced Border Control colleagues to provide a platform for their data.  We're doing this in two steps:
@@ -38,7 +38,7 @@ We are also starting to onboard HMPO
 |:-------------| :-----:|
 | Release Candidate 1A|  |
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% |
-| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 25% |
+| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 50% |
 | [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 0% |
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) | 0% |
 | [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80) | 0% |

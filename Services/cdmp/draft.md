@@ -3,12 +3,14 @@
 | Status as at 8th Aug 201  | Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
 |Release Candidate 1A  | 16% |25-Oct-17 | 25-Oct-17 |
-|Release Candidate 1A  | 16% |25-Oct-17 | 25-Oct-17 |
+|Release Candidate 1B  | 0% |mid march 2018 | mid march 2018 |
 
-### What are we doing
+### Summary
 Working with our Advanced Border Control colleagues to provide a platform for their data.  We're doing this in two steps:
 - Release 1A (test data through ABC and stored on CDP)
 - Release 1B (live data, accredited, supported via Service Now)
+
+Builing a roadmap to onaboard HMPO
 
 ### What is blocking us
 - Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
@@ -16,33 +18,37 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 [Click here for all blockers](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13109)
 
 ### Just done
-- finalised the plan for accreditation of the platforms and started the work
+- updated the due dates in line with ABC plans
+- finalised the plan for accreditation of the platform and started the work
 - added team health metrics to this page
-- with some scope changes, a few of the epics have increased (or decreased) in size (reflected in the metrics/burndown)
+- with some scope changes, a few of the epics have been added or increased/decreased) in size (reflected in the metrics/burndown)
 - created the complete [roadmap for all the ABC and CDP releases](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201)
+- met with Neeraj Dad and Gary OReilly to start planning onboarding HMPO
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa)
 
 ### About to do/doing
-- finalised the (light touch) live support model using Service Now
+- finalise the (light touch) live support model using Service Now
 - show and tell our work around security accreditation
+- start building a roadmap for onboarding HMPO
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13111)
 
 ### Things to be aware off
 - the Delivery Manager is on holiday for the next two weeks
-- ive provided some links to the Jira instance we use so you can drill down if you need (but cant guarantee that everyone will have Jira access so may remove these links if thats the case)
+- we've provided some links to the Jira instance we use so you can drill down if you need (but cant guarantee that everyone will have Jira access so may remove these links if thats the case)
 
 ### Metrics for Release Candidate 1
 
 | Deliverable | Completed  |
 |:-------------| :-----:|
-| 1A|  |
+| Release Candidate 1A|  |
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% |
 | [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 25% |
 | [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 0% |
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) | 0% |
-| 1B|  |
+| [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80) | 0% |
+| Release Candidate 1B|  |
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 0% |
 | [Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88)| 0% |
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 25% |
@@ -51,7 +57,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13107)
 
-### Burn up
+### Release 1A Burn up
 
 <div id="chart"></div>
 <script>

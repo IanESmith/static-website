@@ -113,9 +113,6 @@ data11: 'I dont feel supported by my team',
 data12: 'I dont understand the work that I am doing'
 },
 
-legend: {
-position: 'right'
-},
 
 types: {
 data1: 'line',

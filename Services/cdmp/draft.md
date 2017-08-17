@@ -15,8 +15,6 @@ Builing a roadmap to onboard HMPO
 ### What is blocking us
 - Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
 
-[Click here for all blockers](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13109)
-
 ### Just done
 - updated the due dates in line with ABC plans
 - finalised the plan for accreditation of the platform and started the work
@@ -25,14 +23,10 @@ Builing a roadmap to onboard HMPO
 - created the complete [roadmap for all the ABC and CDP releases](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201)
 - met with Neeraj Dad and Gary OReilly to start planning onboarding HMPO
 
-[Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa)
-
 ### About to do/doing
 - finalise the (light touch) live support model using Service Now
 - show and tell our work around security accreditation
 - start building a roadmap for onboarding HMPO
-
-[Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13111)
 
 ### Things to be aware off
 - the Delivery Manager is on holiday for the next two weeks
@@ -54,8 +48,6 @@ Builing a roadmap to onboard HMPO
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 25% |
 | [Privacy principles for Global Data Protection Regulation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 0% |
 
-
-[Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13107)
 
 ### Release 1A Burn up
 

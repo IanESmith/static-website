@@ -97,10 +97,6 @@ columns: [
 ['data11', 4.0, 3.8],
 ['data12', 3.2, 3.0]
 ],
-
-legend: {
-position: 'right'
-},
     
 names: {
 data1: 'line',

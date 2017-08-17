@@ -2,12 +2,13 @@
 
 | Status as at 8th Aug 201  | Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1  | 16% |25-Oct-17 | 25-Oct-17 |
+|Release Candidate 1A  | 16% |25-Oct-17 | 25-Oct-17 |
+|Release Candidate 1A  | 16% |25-Oct-17 | 25-Oct-17 |
 
 ### What are we doing
 Working with our Advanced Border Control colleagues to provide a platform for their data.  We're doing this in two steps:
 - Release 1A (test data through ABC and stored on CDP)
-- Release 1B	(live data, accredited, supported via Service Now)
+- Release 1B (live data, accredited, supported via Service Now)
 
 ### What is blocking us
 - Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
@@ -15,14 +16,16 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 [Click here for all blockers](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13109)
 
 ### Just done
-- finalised the plan for accreditation of the services (ABC/ CDP/IBM)
-- finalised the (light touch) live support model using Service Now
+- finalised the plan for accreditation of the platforms and started the work
 - added team health metrics to this page
+- with some scope changes, a few of the epics have increased (or decreased) in size (reflected in the metrics/burndown)
+- created the complete [roadmap for all the ABC and CDP releases](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201)
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa)
 
 ### About to do/doing
-
+- finalised the (light touch) live support model using Service Now
+- show and tell our work around security accreditation
 
 [Click here for detail](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13111)
 

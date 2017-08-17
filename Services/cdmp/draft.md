@@ -3,14 +3,14 @@
 | Status as at 8th Aug 201  | Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
 |Release Candidate 1A  | 16% |25-Oct-17 | 25-Oct-17 |
-|Release Candidate 1B  | 0% |mid march 2018 | mid march 2018 |
+|Release Candidate 1B  | 0% |March 2018 | March 2018 |
 
 ### Summary
 Working with our Advanced Border Control colleagues to provide a platform for their data.  We're doing this in two steps:
 - Release 1A (test data through ABC and stored on CDP)
 - Release 1B (live data, accredited, supported via Service Now)
 
-Builing a roadmap to onaboard HMPO
+Builing a roadmap to onboard HMPO
 
 ### What is blocking us
 - Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.

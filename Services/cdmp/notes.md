@@ -1,11 +1,8 @@
 ## Common Data Matching Platform
 
 ### Summary at 22 August 2017
-Working with our Advanced Border Control colleagues to provide a platform for their data.  We're doing this in two steps:
-- Release 1A (test data through ABC and stored on CDP)
-- Release 1B (live data, accredited, supported via Service Now)
-
-We are also starting to plan to onboard HMPO
+Working with our Advanced Border Control colleagues to provide a platform for their data.
+We are also starting to plan to work with our HMPO colleagues.
 
 ### What is blocking us
 - Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
@@ -15,7 +12,7 @@ We are also starting to plan to onboard HMPO
 - finalised the plan for accreditation of the platform and started the work
 - added team health metrics
 - following some changes to scope, a few of the epics have been added or increased/decreased in size. This is reflected in the metrics/burndown
-- created the complete [roadmap for all the ABC and CDP releases](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201)
+- created the complete [roadmap for all the ABC and CDP releases](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201) in Jira
 - met with Neeraj Dad and Gary OReilly to start planning onboarding HMPO
 
 ### About to do/doing

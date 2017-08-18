@@ -1,27 +1,27 @@
 ## Common Data Matching Platform
+### Metrics
+#### Status as at 23 Aug 2017
 
-
-### Metrics for Release Candidate 1
-
-| Status as at 8th Aug 201 |Completed  | Due | Predicted |
+|  |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
 |Release Candidate 1A  | 25% |25-Oct-17 | 25-Oct-17 |
+
+
+---------
+
+|  |Completed  | Due | Predicted |
+|:-----| :-----:|:-----:|:-----:|
+|Release Candidate 1A  | 25% |25-Oct-17 | 25-Oct-17 |
+| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% | | |
+| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)|  50% | | |
+| [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 0% | | | 
+| [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) |  0% || |
+| [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)|   0% | ||
 |Release Candidate 1B  |2% |March 2018 | March 2018 |
-
-
-| Deliverable | Completed  |
-|:-------------| :-----:|
-| Release Candidate 1A|  |
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% |
-| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)| 50% |
-| [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 0% |
-| [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) | 0% |
-| [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80) | 0% |
-| Release Candidate 1B|  |
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 0% |
-| [Platform Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88)| 0% |
-| [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 25% |
-| [Privacy principles for Global Data Protection Regulation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19) | 0% |
+| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83)  | 0% | | |
+| [Platform Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88) | 0% | | |
+| [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19)  | 25% | | |
+| [Privacy principles for Global Data Protection Regulation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19)  | 0% | | |
 
 
 ### Release 1A Burn up

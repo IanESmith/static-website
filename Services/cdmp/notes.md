@@ -1,6 +1,6 @@
 ## Common Data Matching Platform
 
-### Summary
+### Summary at 22 August 2017
 Working with our Advanced Border Control colleagues to provide a platform for their data.  We're doing this in two steps:
 - Release 1A (test data through ABC and stored on CDP)
 - Release 1B (live data, accredited, supported via Service Now)

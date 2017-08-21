@@ -11,7 +11,7 @@ We are also starting to plan to work with our HMPO colleagues.
 - updated the Release 1 due dates in line with ABC plans
 - finalised the plan for accreditation of the platform and started the work
 - added team health finding to the [metrics](metrics.html)
-- following some scope change, a few epics have been added or increased/decreased in size. This is reflected in the metrics and burndown
+- following some scope change, a few epics have been added or increased/decreased in size. This is reflected in the metrics and burndown (which ive split out to [another page](metrics.html))
 - created the complete [roadmap for all the ABC and CDP releases](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201) in Jira
 - met with Neeraj Dad and Gary OReilly to start planning onboarding HMPO
 
@@ -23,6 +23,6 @@ We are also starting to plan to work with our HMPO colleagues.
 ### Things to be aware off
 - the Delivery Manager is on holiday for the next two weeks. The point of contact is our
 [Product Manager](mailto:alistair.mckay@homeoffice.gsi.gov.uk)
-- We'd provided some links to the Jira instance we use so you could drill down if you need but it looks like access to the various tools (like Jira and Confluence) may need some tweaking. I'll reduce these links until then
+- We'd provided some links to the Jira instance we use so you could drill down if you need but it looks like access to the various tools (like Jira and Confluence) isnt consistent acorss the portfolios. I'll remove these links until then
 
 [Click here for metrics](metrics.html)

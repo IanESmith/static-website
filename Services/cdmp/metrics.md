@@ -5,8 +5,6 @@
 |:-----| :-----:|:-----:|:-----:|
 |Release Candidate 1A  | 25% |25-Oct-17 | 25-Oct-17 |
 
------------------
-
 | Epic |Completed  | 
 |:-----| :-----:|
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% | 
@@ -17,8 +15,10 @@
 
 | Release|Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1B  | 2% |March 2018 | March 2018 |
+|Release Candidate 1B  | 2% | March 2018 | March 2018 |
+
 ------------------
+
 | Epic |Completed  | 
 |:-----| :-----:|
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83)  | 0% | 

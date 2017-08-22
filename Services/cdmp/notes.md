@@ -5,7 +5,7 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 We are also starting to plan bringing our HMPO colleagues onto the Commmon Data Platform.
 
 ### What is blocking us
-- Our main challenge is around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
+Our main challenge is around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
 
 ### Just done
 - updated the Release 1 dates in line with ABC plans

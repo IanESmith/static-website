@@ -5,11 +5,11 @@ Working with our Advanced Border Control colleagues to provide a platform for th
 We are also starting to plan bringing our HMPO colleagues onto the Commmon Data Platform.
 
 ### What is blocking us
-Our main challenge is around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
+Our main challenge is around people. We no longer have a technical lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We're tracking progress and am able to see the team velocity (and its impact on due dates).
 
 ### Just done
 - updated the Release 1 dates in line with ABC plans
-- finalised the plan for Accreditation of the platform and started the work
+- finalised the plan for accreditation of the platform and started the work
 - following some scope change, a few epics have been added/removed or increased/decreased in size. This is reflected in the metrics and burndown (which we've split out to [another page](metrics.html))
 - created the complete [roadmap for all the ABC and CDP releases](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201) in Jira
 - met with Neeraj Dad and Gary OReilly to start planning onboarding HMPO

@@ -22,7 +22,7 @@
 | Epic |Completed  | 
 |:-----| :-----:|
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83)  | 0% | 
-| [Platform Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88) | 05% | 
+| [Platform Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88) | 5% | 
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19)  | 25% | 
 
 

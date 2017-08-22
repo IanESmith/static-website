@@ -2,16 +2,15 @@
 
 ### Summary at 22 August 2017
 Working with our Advanced Border Control colleagues to provide a platform for their data.
-We are also starting to plan to work with our HMPO colleagues.
+We are also starting to plan bringing our HMPO colleagues onto the Commmon Data Platform.
 
 ### What is blocking us
-- Our main challenge is now around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
+- Our main challenge is around people. We no longer have a tech lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We'll track progress and be able to see the team velocity (and its impact on due dates) in the coming weeks.
 
 ### Just done
-- updated the Release 1 due dates in line with ABC plans
-- finalised the plan for accreditation of the platform and started the work
-- added team health finding to the [metrics](metrics.html)
-- following some scope change, a few epics have been added/removed or increased/decreased in size. This is reflected in the metrics and burndown (which ive split out to [another page](metrics.html))
+- updated the Release 1 dates in line with ABC plans
+- finalised the plan for Accreditation of the platform and started the work
+- following some scope change, a few epics have been added/removed or increased/decreased in size. This is reflected in the metrics and burndown (which we've split out to [another page](metrics.html))
 - created the complete [roadmap for all the ABC and CDP releases](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201) in Jira
 - met with Neeraj Dad and Gary OReilly to start planning onboarding HMPO
 
@@ -19,6 +18,7 @@ We are also starting to plan to work with our HMPO colleagues.
 - finalise the (light touch) live support model using Service Now
 - show and tell our work around security accreditation
 - plan a workshop the 1st week of September to build a roadmap for onboarding HMPO
+- add the team health data to the [metrics](metrics.html)
 
 ### Things to be aware off
 - the Delivery Manager is on holiday for the next two weeks. The point of contact is our

@@ -8,7 +8,8 @@ We are also starting to plan bringing our HMPO colleagues onto the Commmon Data 
 Our main challenge is around people. We no longer have a technical lead, the team is very small, and the challenges around folk away on holiday or affected by the Waterloo disruption will reduce our effectiveness. We're tracking progress and am able to see the team velocity (and its impact on due dates). Its possible we may lose the security team also.
 
 ### Just done
-- work on the threat and risk security assessment
+- started work on the threat and risk security assessment
+- continuing work on the infrastructure and services epics
 
 ### About to do/doing
 - add agreed actions from the threat and risk security assessment to the backlog

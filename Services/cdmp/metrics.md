@@ -3,15 +3,15 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1A  | 27% |25-Oct-17 | 20-Nov-17 |
+|Release Candidate 1A  | 36% |25-Oct-17 | 23-Dec-17 |
 
 | Epic |Completed  | 
 |:-----| :-----:|
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% | 
 | [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)|  75% | 
-| [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 0% |  
+| [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 15% |  
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) |  0% |
-| [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)|   0% |
+| [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)|  5% |
 
 | Release|Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
@@ -20,7 +20,7 @@
 | Epic |Completed  | 
 |:-----| :-----:|
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83)  | 0% | 
-| [Platform Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88) | 5% | 
+| [Platform Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88) | 25% | 
 | [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19)  | 25% | 
 
 
@@ -33,15 +33,16 @@ data: {
 x: 'x',
 columns: [
 ['x', 1, 2, 3, 4, 5, 6,7],
-['done', 15.3, 15, 0, 0, 0, 0, 0],
-['to do', 42.8, 40, 0, 0, 0, 0, 0],
-['required', 7, 16, 24, 32, 39, 47, 55],
+['done', 15.3, 15, 16, 0, 0, 0, 0],
+['to do', 42.8, 40, 29, 0, 0, 0, 0],
+['required', 7, 16, 21, 27, 33, 40, 47],
 ],
 
 type: 'bar',
 types: {
 required: 'line',
 },
+
 
 
 groups: [ 

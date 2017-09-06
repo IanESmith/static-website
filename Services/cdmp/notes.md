@@ -21,6 +21,6 @@ Our main challenge is around people. We no longer have a technical lead, the tea
 - add the team health data to the [metrics](metrics.html)
 
 ### Things to be aware off
-Adding all the CDP security work as a new epic means our delivery for ABC looks a bit challenging. In fact, its not, we're all on track for the October release and if we need to we can delay the remainder of the CDP security work with no impact. So we getting ahead of the delivery, not behind. If that makes sense.
+If you have questions on how an agile project works, or what the metrics show, get in touch with the [delivery manager/agile coach](mailto:ian.eccles-smith@digital.homeoffice.gov.uk) and they can arrange a session to demonstrate.
 
 [Click here for metrics](metrics.html)

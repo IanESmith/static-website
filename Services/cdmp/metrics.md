@@ -53,3 +53,5 @@ bindto: '#chart'
 
 });
 </script>
+
+[Click here for sprint notes](notes.html)

@@ -26,13 +26,11 @@ position: 'right'
 },
 
 
-axis: 
-{
+axis:  {
 x: {
-label: 'X Label'
-},
+label: 'X Label'},
 y: {
-label: 'Y Label'
+label: 'Y Label'}
 }
 
 bindto: '#chart'

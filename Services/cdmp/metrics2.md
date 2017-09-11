@@ -23,10 +23,6 @@ groups: [
 ['to do','done'] ] 
 },
 
-legend: {
-position: 'right'
-},
-
 bindto: '#chart'
 
 });

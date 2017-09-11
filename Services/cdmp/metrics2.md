@@ -41,6 +41,11 @@ bindto: '#chart'
 <div id="chart1"></div>
 <script>
 var chart = c3.generate({
+size: {
+height: 240,
+width: 480
+},
+
 data: {
 columns: [
 ['data1', 2.8, 3.3],

@@ -1,23 +1,22 @@
 ### Release 1A Burn up
 <div id="chart"></div>
 <script>
-var chart = c3.generate
-
-({
+var chart = c3.generate({
 
 data: {
 x: 'x',
 columns: [
 ['x', 1, 2, 3, 4, 5, 6,7],
-['done', 15.3, 12.5, 0, 0, 0, 0, 0],
-['to do', 42.8, 52.5, 0, 0, 0, 0, 0],
-['required', 7, 19, 28, 37, 46, 56, 65],
-]
+['done', 15.3, 15, 16, 0, 0, 0, 0],
+['to do', 42.8, 40, 29, 0, 0, 0, 0],
+['required', 7, 16, 21, 27, 33, 40, 47],
+],
 
 type: 'bar',
 types: {
 required: 'line',
 },
+
 
 
 groups: [ 
@@ -28,6 +27,9 @@ bindto: '#chart'
 
 });
 </script>
+
+
+
 ### Team Health
 <div id="chart1"></div>
 <script>
@@ -47,11 +49,6 @@ columns: [
 ['data11', 4.0, 3.8],
 ['data12', 3.2, 3.0]
 ],
-},
-
-legend: {
-position: 'right'
-}
 
 names: 
 {
@@ -85,6 +82,10 @@ data12: 'line'
 
 groups: 
 [['data1', 'data2', 'data3', 'data4', 'data5', 'data6', 'data7', 'data8', 'data9','data10','data11','data12']]
+},
+
+legend: {
+position: 'right'
 },
 
 bindto: '#chart1'

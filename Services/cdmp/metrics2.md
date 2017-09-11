@@ -51,7 +51,7 @@ var chart = c3.generate({
 data: {
 x: 'x',
 columns: [
-['x', July, August],
+['x', 'July', 'August'],
 ['data1', 2.8, 3.3],
 ['data2', 2.8, 4.0],
 ['data3', 3.2, 3.5],

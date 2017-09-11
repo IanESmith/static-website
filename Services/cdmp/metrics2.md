@@ -33,7 +33,6 @@ bindto: '#chart'
 
 
 ### Team Health
-Every month the team anonomously score how they feeling. The results are averaged and displayed here. The lower the number, the worse the team 'health'.
 <div id="chart1"></div>
 <script>
 var chart = c3.generate({
@@ -95,3 +94,4 @@ bindto: '#chart1'
 
 });
 </script>
+Every month the team anonomously score how they feeling. The results are averaged and displayed here. The lower the number, the worse the team 'health'.

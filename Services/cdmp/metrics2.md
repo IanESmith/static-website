@@ -17,10 +17,12 @@ types: {
 required: 'line',
 },
 
-
-
 groups: [ 
 ['to do','done'] ] 
+},
+
+legend: {
+position: 'right'
 },
 
 bindto: '#chart'

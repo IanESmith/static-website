@@ -3,6 +3,11 @@
 <script>
 var chart = c3.generate({
 
+size: {
+height: 240,
+width: 480
+},
+
 data: {
 x: 'x',
 columns: [

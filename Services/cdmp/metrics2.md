@@ -48,14 +48,16 @@ var chart = c3.generate({
 
 axis: {
 x: {
-type: 'category',
-categories: ['cat1', 'cat2']
+type: 'timeseries',
+tick: {
+format: '%Y-%m-%d'
 }
 },
 
 data: {
-
+x: 'x',
 columns: [
+['x', '2013-01-01', '2013-01-02'],
 ['data1', 2.8, 3.3],
 ['data2', 2.8, 4.0],
 ['data3', 3.2, 3.5],

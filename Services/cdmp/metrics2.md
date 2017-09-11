@@ -1,31 +1,11 @@
-## Common Data Matching Platform
-### Metrics
-
-| Release |Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1A  | 25% |25-Oct-17 | 25-Oct-17 |
-
-| Epic |Completed  | 
-|:-----| :-----:|
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% | 
-| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)|  50% | 
-| [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 0% |  
-| [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) |  0% |
-| [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)|   0% |
-
-| Release|Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1B  | 2% | March 2018 | March 2018 |
-
-------------------
-
-| Epic |Completed  | 
-|:-----| :-----:|
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83)  | 0% | 
-| [Platform Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88) | 0% | 
-| [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19)  | 25% | 
-| [Privacy principles for Global Data Protection Regulation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19)  | 0% | 
-
+<div id="chart"></div>
+<script>
+chart.load({
+        columns: [
+            ['data1', 230, 190, 300, 500, 300, 400]
+        ]
+    });
+</script>
 
 ### Release 1A Burn up
 <div id="chart"></div>

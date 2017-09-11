@@ -5,8 +5,13 @@ var chart = c3.generate({
 
 axis: {
 x: {
-label: 'Your X Axis'
+label: 'Sprint'
 }
+y: {
+label: 'Work'
+}
+
+
 },
 
 data: {

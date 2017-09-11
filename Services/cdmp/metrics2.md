@@ -26,12 +26,25 @@ position: 'right'
 },
 
 
-axes:  {
-x: {
-label: 'X Label'},
-y: {
-label: 'Y Label'}
+
+axes: {
+sample2: 'y2'
+}
 },
+    
+axis: {
+x: {
+label: 'X Label'
+},
+y: {
+label: 'Y Label'
+},
+y2: {
+show: true,
+label: 'Y2 Label'
+}
+}
+
 
 bindto: '#chart'
 

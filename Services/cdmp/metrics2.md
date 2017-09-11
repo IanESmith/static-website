@@ -51,18 +51,18 @@ columns: [
 ],
 
 names: {
-data1: 'I am not happy with my working environment',
+data1: 'line',
 data2: 'I don't know whats going on',
-data3: 'I dont feel I can raise anything with the whole team',
-data4: 'I dont feel my voice is being heard',
-data5: 'I dont feel my work contributes to the goal',
-data6: 'I dont feel supported by my team',
-data7: 'I dont get enough time to tackle technical debt',
-data8: 'I dont get time to improve my skills/knowledge',
-data9: 'I dont know what work is next',
-data10:'I dont understand the work that I am doing',
-data11:'I feel like I am working on my own',
-data12:'I feel like work is being pushed on me'
+data3: 'line',
+data4: 'line',
+data5: 'line',
+data6: 'line',
+data7: 'line',
+data8: 'line',
+data9: 'line',
+data10:'line',
+data11:'line',
+data12:'line'
 },
   
 types: {

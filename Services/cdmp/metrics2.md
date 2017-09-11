@@ -1,16 +1,9 @@
-<div id="chart"></div>
-<script>
-chart.load({
-columns: [
-['data1', 230, 190, 300, 500, 300, 400]
-]
-});
-</script>
-
 ### Release 1A Burn up
 <div id="chart"></div>
 <script>
-var chart = c3.generate({
+var chart = c3.generate
+
+({
 
 data: {
 x: 'x',
@@ -54,6 +47,10 @@ columns: [
 ['data11', 4.0, 3.8],
 ['data12', 3.2, 3.0]
 ],
+
+legend: {
+position: 'right'
+},
 
 names: 
 {

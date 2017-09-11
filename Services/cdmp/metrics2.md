@@ -43,7 +43,7 @@ y2: {
 show: true,
 label: 'Y2 Label'
 }
-}
+},
 
 
 bindto: '#chart'

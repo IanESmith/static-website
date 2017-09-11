@@ -25,27 +25,6 @@ legend: {
 position: 'right'
 },
 
-
-
-axes: {
-sample2: 'y2'
-}
-},
-    
-axis: {
-x: {
-label: 'X Label'
-},
-y: {
-label: 'Y Label'
-},
-y2: {
-show: true,
-label: 'Y2 Label'
-}
-},
-
-
 bindto: '#chart'
 
 });
@@ -64,14 +43,14 @@ columns: [
 ['data2', 2.8, 4.0],
 ['data3', 3.2, 3.5],
 ['data4', 3.2, 3.8],
-['data5',3.0, 4.5],
+['data5', 3.0, 4.5],
 ['data6', 3.0, 3.8],
 ['data7', 3.4, 2.8],
-['data8', 2.6, 3.5],
-['data9', 4.0, 3.5],
-['data10', 3.2, 4.0],
-['data11', 4.0, 3.8],
-['data12', 3.2, 3.0]
+['data8', 3.4, 3.5],
+['data9', 2.6, 3.5],
+['data10', 4.0, 4.0],
+['data11', 3.2, 3.8],
+['data12', 3.6, 3.0]
 ],
 
 names: {

@@ -52,7 +52,7 @@ columns: [
 
 names: {
 data1: 'line',
-data2: 'I don't know whats going on',
+data2: 'line',
 data3: 'line',
 data4: 'line',
 data5: 'line',

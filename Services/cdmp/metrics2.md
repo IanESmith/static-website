@@ -25,6 +25,16 @@ legend: {
 position: 'right'
 },
 
+
+axis: {
+x: {
+label: 'X Label'
+},
+y: {
+label: 'Y Label'
+},
+
+
 bindto: '#chart'
 
 });

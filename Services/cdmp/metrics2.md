@@ -52,6 +52,7 @@ type: 'timeseries',
 tick: {
 format: '%Y-%m-%d'
 }
+}
 },
 
 data: {

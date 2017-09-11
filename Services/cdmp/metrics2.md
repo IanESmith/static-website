@@ -1,10 +1,10 @@
 <div id="chart"></div>
 <script>
 chart.load({
-        columns: [
-            ['data1', 230, 190, 300, 500, 300, 400]
-        ]
-    });
+columns: [
+['data1', 230, 190, 300, 500, 300, 400]
+]
+});
 </script>
 
 ### Release 1A Burn up

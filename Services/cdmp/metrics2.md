@@ -50,8 +50,7 @@ columns: [
 ['data12', 3.2, 3.0]
 ],
 
-names: 
-{
+names: {
 data1: 'I am not happy with my working environment',
 data2: 'I don't know whats going on',
 data3: 'I dont feel I can raise anything with the whole team',
@@ -61,9 +60,10 @@ data6: 'I dont feel supported by my team',
 data7: 'I dont get enough time to tackle technical debt',
 data8: 'I dont get time to improve my skills/knowledge',
 data9: 'I dont know what work is next',
-data10: 'I dont understand the work that I am doing',
-data11: 'I feel like I am working on my own',
-data12: 'I feel like work is being pushed on me' },
+data10:'I dont understand the work that I am doing',
+data11:'I feel like I am working on my own',
+data12:'I feel like work is being pushed on me'
+},
   
 types: {
 data1: 'line',

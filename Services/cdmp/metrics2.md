@@ -50,9 +50,8 @@ var chart = c3.generate({
 
 data: {
 x: 'x',
-
 columns: [
-'x', '2013-01-01', '2013-01-02'],
+['x', 100, 200],
 ['data1', 2.8, 3.3],
 ['data2', 2.8, 4.0],
 ['data3', 3.2, 3.5],
@@ -67,13 +66,6 @@ columns: [
 ['data12', 3.6, 3.0]
 ],
 
-axis: {
-x: {
-type: 'timeseries',
-tick: {format: '%Y-%m-%d'
-}
-}
-},
 
 names: {
 data1: 'I am not happy with my working environment',

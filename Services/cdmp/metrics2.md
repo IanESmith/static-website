@@ -66,18 +66,18 @@ data12:'I feel like work is being pushed on me'
 },
 
 types: {
-data1: 'line',
-data2: 'line',
-data3: 'line',
-data4: 'line',
-data5: 'line',
-data6: 'line',
-data7: 'line',
-data8: 'line',
-data9: 'line',
-data10: 'line',
-data11: 'line',
-data12: 'line'
+data1: 'area-step',
+data2: 'area-step',
+data3: 'area-step',
+data4: 'area-step',
+data5: 'area-step',
+data6: 'area-step',
+data7: 'area-step',
+data8: 'area-step',
+data9: 'area-step',
+data10: 'area-step',
+data11: 'area-step',
+data12: 'area-step'
 },
 
 groups: 

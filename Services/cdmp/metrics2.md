@@ -51,8 +51,8 @@ columns: [
 ],
 
 names: {
-data1: 'Data Name 1',
-data2: 'Data Name 2',
+data1: 'I dont know whats going on',
+data2: 'I feel like I am working on my own',
 data3: 'line',
 data4: 'line',
 data5: 'line',
@@ -64,6 +64,7 @@ data10:'line',
 data11:'line',
 data12:'line'
 },
+
   
 types: {
 data1: 'line',

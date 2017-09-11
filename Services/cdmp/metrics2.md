@@ -10,8 +10,6 @@ label: 'Sprint'
 y: {
 label: 'Work'
 }
-
-
 },
 
 data: {
@@ -48,6 +46,13 @@ bindto: '#chart'
 <script>
 var chart = c3.generate({
 
+axis: {
+x: {
+type: 'category',
+categories: ['cat1', 'cat2']
+}
+},
+
 data: {
 
 columns: [
@@ -65,12 +70,7 @@ columns: [
 ['data12', 3.6, 3.0]
 ],
 
-axis: {
-x: {
-type: 'category',
-categories: ['cat1', 'cat2']
-}
-},
+
 
 names: {
 data1: 'I am not happy with my working environment',

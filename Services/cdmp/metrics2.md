@@ -117,4 +117,4 @@ bindto: '#chart1'
 
 });
 </script>
-Every month the team anonomously score how they feeling. The results are averaged and displayed here. The lower the number, the worse the team 'health' (which has a negative impact on quality).
+Every month the team anonomously score how they feeling, from 1 to 5. The lower the number, the worse the team 'health' (which has a negative impact on quality). The results are averaged on this chart. 

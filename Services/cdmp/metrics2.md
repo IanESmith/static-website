@@ -50,7 +50,7 @@ axis: {
 x: {
 type: 'timeseries',
 tick: {
-format: '%m-%Y'
+format: '%Y-%m'
 }
 }
 },

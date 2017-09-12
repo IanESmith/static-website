@@ -50,7 +50,7 @@ axis: {
 x: {
 type: 'timeseries',
 tick: {
-format: '%Y-%m'
+format: '%m-%Y'
 }
 }
 },
@@ -58,7 +58,7 @@ format: '%Y-%m'
 data: {
 x: 'x',
 columns: [
-['x', '2017-07', '2017-08'],
+['x', '2017-07-07', '2017-08-07'],
 ['data1', 2.8, 3.3],
 ['data2', 2.8, 4.0],
 ['data3', 3.2, 3.5],

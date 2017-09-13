@@ -1,46 +1,23 @@
 ### Progress v time
-<div id="chart"></div>
+<div id="gauge"></div>
 <script>
+
 var chart = c3.generate({
-
-axis: {
-x: {
-label: 'Sprint'
-},
-y: {
-label: 'Work'
-}
-},
-
+bindto: "#gauge",
 data: {
-x: 'x',
 columns: [
-['x', 1, 2],
-['work', 15.3],
-['time', 42.8],
+['time', 75.0],
+['work', 66]
 ],
-
 type: 'gauge',
-types: {
-required: 'line',
 },
-
-groups: [ 
-['work','time'] ] 
-},
-
-legend: {
-position: 'right'
-},
-
-bindto: '#chart'
-
+gauge: {
+min: 50,
+max: 100
+}
 });
+
 </script>
-
-
-
-
 ### Release 1A Burn up
 <div id="chart1"></div>
 <script>

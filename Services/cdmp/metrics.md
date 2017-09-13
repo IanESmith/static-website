@@ -13,15 +13,6 @@
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) |  0% |
 | [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)|  5% |
 
-| Release|Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1B  | 5% | March 2018 | March 2018 |
-
-| Epic |Completed  | 
-|:-----| :-----:|
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83)  | 0% | 
-| [Platform Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88) | 25% | 
-| [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19)  | 25% | 
 
 
 ### Release 1A Burn up
@@ -53,5 +44,17 @@ bindto: '#chart'
 
 });
 </script>
+
+
+
+| Release|Completed  | Due | Predicted |
+|:-----| :-----:|:-----:|:-----:|
+|Release Candidate 1B  | 5% | March 2018 | March 2018 |
+
+| Epic |Completed  | 
+|:-----| :-----:|
+| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83)  | 0% | 
+| [Platform Accreditation](https://jira.digital.homeoffice.gov.uk/browse/CDMP-88) | 25% | 
+| [Live Support](https://jira.digital.homeoffice.gov.uk/browse/CDMP-19)  | 25% | 
 
 [Click here for sprint notes](notes.html)

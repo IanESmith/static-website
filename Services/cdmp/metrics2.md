@@ -20,7 +20,7 @@ columns: [
 ['time', 42.8],
 ],
 
-type: 'guage',
+type: 'gauge',
 types: {
 required: 'line',
 },

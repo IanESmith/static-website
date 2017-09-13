@@ -6,13 +6,13 @@ var chart = c3.generate({
 bindto: "#gauge",
 data: {
 columns: [
-['time', 75.0],
+['time', 75],
 ['work', 66]
 ],
 type: 'gauge',
 },
 gauge: {
-min: 50,
+min: 0,
 max: 100
 }
 });

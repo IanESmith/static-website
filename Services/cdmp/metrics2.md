@@ -1,5 +1,48 @@
-### Release 1A Burn up
+### Progress v time
 <div id="chart"></div>
+<script>
+var chart = c3.generate({
+
+axis: {
+x: {
+label: 'Sprint'
+},
+y: {
+label: 'Work'
+}
+},
+
+data: {
+x: 'x',
+columns: [
+['x', 1, 2],
+['work', 15.3],
+['time', 42.8],
+],
+
+type: 'guage',
+types: {
+required: 'line',
+},
+
+groups: [ 
+['work','time'] ] 
+},
+
+legend: {
+position: 'right'
+},
+
+bindto: '#chart'
+
+});
+</script>
+
+
+
+
+### Release 1A Burn up
+<div id="chart1"></div>
 <script>
 var chart = c3.generate({
 
@@ -34,7 +77,7 @@ legend: {
 position: 'right'
 },
 
-bindto: '#chart'
+bindto: '#chart1'
 
 });
 </script>
@@ -42,7 +85,7 @@ bindto: '#chart'
 
 
 ### Team Health
-<div id="chart1"></div>
+<div id="chart2"></div>
 <script>
 var chart = c3.generate({
 
@@ -111,7 +154,7 @@ legend: {
 position: 'right'
 },
 
-bindto: '#chart1'
+bindto: '#chart2'
 
 });
 </script>

@@ -8,13 +8,13 @@ We are also starting to plan bringing our HMPO colleagues onto the Commmon Data 
 Our main challenge is remains around people. We still dont have a technical lead, the team is very small, and the challenges around folk on holiday, ill, affected by the Waterloo disruption or out of office reduce our effectiveness. Its possible we may lose the security team also. We're tracking progress and am able to see the team velocity (and its impact on due dates). 
 
 ### Just done
-- completed the threat and impact assessment and documenting anything required for the accreditation
+- agreed (with our HMPO collegaues) the high level roadmap to onboard HMPO
+- completed the threat and impact assessment - all looking in good shape for the accreditation
 - finalised the (light touch) live support model using ServiceNow
 - added the team health data to the [metrics](metrics.html)
-- agree (with our HMPO collegaues) the high level roadmap to onboard HMPO
+- delivered the development environments for our ABC colleagues
 
 ### About to do/doing
-- add actions from the threat and risk security assessment to the backlog
 - completing all the security work required for the entire CDP platform (not just ABC)
 - show and tell our work around security and accreditation
 - create the CDP account on ServiceNow

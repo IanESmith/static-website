@@ -3,15 +3,15 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1A  | 36% |25-Oct-17 | 23-Dec-17 |
+|Release Candidate 1A  | 54% |25-Oct-17 | 12-Nov-17 |
 
 | Epic |Completed  | 
 |:-----| :-----:|
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 75% | 
+| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 90% | 
 | [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)|  75% | 
 | [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 90% |  
 | [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) |  0% |
-| [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)|  2% |
+| [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)|  50% |
 
 
 ### Release 1A Burn up

@@ -11,7 +11,7 @@ Our main challenge is remains around people. We still dont have a technical lead
 - completed the threat and impact assessment and documenting anything required for the accreditation
 - finalised the (light touch) live support model using ServiceNow
 - added the team health data to the [metrics](metrics.html)
-- created the roadmap to onboard HMPO
+- agree (with our HMPO collegaues) the high level roadmap to onboard HMPO
 
 ### About to do/doing
 - add actions from the threat and risk security assessment to the backlog
@@ -19,6 +19,7 @@ Our main challenge is remains around people. We still dont have a technical lead
 - show and tell our work around security and accreditation
 - create the CDP account on ServiceNow
 - start connecting (and testing) ABC to the CDP
+- finalise the detailed roadmap to onboard HMPO
 
 ### Things to be aware off
 If you have questions on how an agile project works, or what the metrics show, get in touch with the [delivery manager/agile coach](mailto:ian.eccles-smith@digital.homeoffice.gov.uk) and they can arrange a session to demonstrate.

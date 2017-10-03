@@ -7,8 +7,8 @@ Working with our Advanced Border Control and HMPO colleagues to provide a platfo
 Our main challenge is remains around our very small technical team. We're working to resolve this, and tracking progress and so able to see the velocity (and any impact on due dates). 
 
 ### Just done
-- completed all the work for Release Candidate 1A (except Monitoring for which we still havent been given requirements)
-- completed most of the security work required for the entire CDP platform (not just ABC)
+- completed all the work for Release Candidate 1A (except Monitoring for which ABC have not yet provided requirements)
+- completed much of the security work required for the entire CDP platform (not just ABC)
 - 'show and tell' our work around security and accreditation
 - fed all the work from the security risk assessment into our roadmap and backlog
 

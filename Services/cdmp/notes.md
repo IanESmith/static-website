@@ -1,27 +1,24 @@
 ## Common Data Matching Platform
 
-### Summary as of 20 September  2017
-Working with our Advanced Border Control colleagues to provide a platform for their data.
-We are also starting to plan bringing our HMPO colleagues onto the Commmon Data Platform.
+### Summary as of 3 October  2017
+Working with our Advanced Border Control and HMPO colleagues to provide a platform for their data.
 
 ### What is blocking us
-Our main challenge is remains around people. We still dont have a technical lead, the team is very small, and the challenges around folk on holiday, ill, affected by the Waterloo disruption or out of office reduce our effectiveness. Its possible we may lose the security team also. We're tracking progress and am able to see the team velocity (and its impact on due dates). 
+Our main challenge is remains around people. We're tracking progress and am able to see the team velocity (and its impact on due dates). 
 
 ### Just done
-- agreed (with our HMPO collegaues) the high level roadmap to onboard HMPO
-- completed the threat and impact assessment - all looking in good shape for the accreditation
-- finalised the (light touch) live support model using ServiceNow
-- added the team health data to the [metrics](metrics.html)
-- delivered the development environments for our ABC colleagues
+- completed all the work for Release Candidate 1A (except Monitoring for which we still havent been given requirements)
+- completed most of the security work required for the entire CDP platform (not just ABC)
+- 'show and tell' our work around security and accreditation
+- fed all the work from the security risk assessment into our roadmap and backlog
 
 ### About to do/doing
-- completing all the security work required for the entire CDP platform (not just ABC)
-- show and tell our work around security and accreditation
 - create the CDP account on ServiceNow
 - start connecting (and testing) ABC to the CDP
 - finalise the detailed roadmap to onboard HMPO
 
 ### Things to be aware off
-If you have questions on how an agile project works, or what the metrics show, get in touch with the [delivery manager/agile coach](mailto:ian.eccles-smith@digital.homeoffice.gov.uk) and they can arrange a session to demonstrate.
+- We're being joined by a new starter who will be helping out in the day to day product management space
+- Most of the work the team will be doing from this point on (once ABC are connecting to our dev and test environments) will be around preparing the platform for accreditation.
 
 [Click here for metrics](metrics.html)

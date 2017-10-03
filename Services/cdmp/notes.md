@@ -4,7 +4,7 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a platform for their data.
 
 ### What is blocking us
-Our main challenge is remains around our very small technical team. We're working to resolve this and tracking progress so able to see the velocity (and any impact on due dates). 
+Our main challenge is remains around only having a very small technical team. We're working to resolve this and tracking progress so able to see the velocity (and any impact on due dates). 
 
 ### Just done
 - completed pretty well all of the work for Release Candidate 1A (except Monitoring for which ABC have not yet provided requirements and Logging (which may needed sooner than expected))

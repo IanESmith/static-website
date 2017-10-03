@@ -4,7 +4,7 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a platform for their data.
 
 ### What is blocking us
-Our main challenge is remains around people. We're tracking progress and am able to see the team velocity (and its impact on due dates). 
+Our main challenge is remains around our very small technical team. We're working to resolve this, and tracking progress and so able to see the team velocity (and its impact on due dates). 
 
 ### Just done
 - completed all the work for Release Candidate 1A (except Monitoring for which we still havent been given requirements)

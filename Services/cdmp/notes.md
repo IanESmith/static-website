@@ -18,6 +18,7 @@ Our main challenge is remains around only having a very small technical team. We
 - start connecting (and testing) ABC to the CDP
 - finalise the detailed roadmap to onboard HMPO
 - agree scope for pen testing
+- connect ABC (Dev and Test) to CDP
 
 ### Things to be aware off
 - We're being joined by a new starter who will be helping out in the day-to-day product management space

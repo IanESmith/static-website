@@ -3,14 +3,14 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1A  | 61% |25-Oct-17 | 20-Nov-17 |
+|Release Candidate 1A  | 69% |25-Oct-17 | 16-Nov-17 |
 
 | Epic |Completed  | 
 |:-----| :-----:|
 | [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 100% | 
 | [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)|  100% | 
 | [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 100% |  
-| [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) |  0% |
+| [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) |  25% |
 | [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)|  50% |
 
 
@@ -32,8 +32,8 @@ data: {
 x: 'x',
 columns: [
 ['x', 1, 2, 3, 4, 5, 6,7],
-['done', 15.3, 15, 16, 20.75, 27.5, 0, 0],
-['to do', 42.8, 40, 29, 24.25, 17.5, 0, 0],
+['done', 15.3, 15, 16, 20.75, 27.5, 31.25, 0],
+['to do', 42.8, 40, 29, 24.25, 17.5, 13.75, 0],
 ['required', 7, 16, 21, 27, 34, 40, 47],
 ],
 

@@ -19,6 +19,7 @@ Our main challenge is remains around only having a very small technical team. We
 - finalise the detailed roadmap to onboard HMPO
 - agree scope for pen testing
 - connect ABC (Dev and Test) to CDP
+- ensure all HO folk can see our [Confluence Space](https://collaboration.homeoffice.gov.uk/pages/viewpage.action?pageId=21019374)
 
 ### Things to be aware off
 - We're being joined by a new starter who will be helping out in the day-to-day product management space

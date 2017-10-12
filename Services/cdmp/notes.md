@@ -21,9 +21,11 @@ Our main challenge is remains around only having a very small technical team. We
 - connect ABC (Dev and Test) to CDP
 - review of test strategy and reccomnedations made
 - ensure all HO folk can see our [Confluence Space](https://collaboration.homeoffice.gov.uk/pages/viewpage.action?pageId=21019374)
+- interviewed three devops candidates
+- create new burnup to cover the remaining work for the ABC release candidate 1
 
 ### Things to be aware off
-- We're being joined by a new starter who will be helping out in the day-to-day product management space
 - Most of the work the team will be doing from this point on (once ABC are connecting to our dev and test environments) will be around preparing the platform for accreditation.
+-Though the due date for Release Candidate 1 is March 2018, we're planning on completing most of our work by the end of 2017 (to allow pen testing to take place in Jan 2018)
 
 [Click here for metrics](metrics.html)

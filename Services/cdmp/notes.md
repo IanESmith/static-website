@@ -7,7 +7,7 @@ Working with our Advanced Border Control and HMPO colleagues to provide a platfo
 Our main challenge is remains around having a very small technical team. We're working to resolve this and tracking progress so able to see the velocity (and any impact on due dates). 
 
 ### Just done
--opened up the teams Confluence Space making it easier for you to find things like [Team Details](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Team)
+-opened up access to the teams Confluence Space making it easier for you to find things like [Team Details](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Team)
 - interviewed three devops candidates
 - fed all the work from the security risk assessment into our roadmap and backlog
 - had a test and development lead review  our developement  & test strategy and made some recommendations
@@ -23,7 +23,7 @@ Our main challenge is remains around having a very small technical team. We're w
 - create new burnup to cover the remaining work for the ABC release candidate 1
 
 ### Things to be aware off
--We're going to start planning and reporting progress to CDP Releases, but call out teh added benefits, new features and which tenants (ie ABC, HMPO etc) these are of value to. This will be on our shared roadmap which you'll all be able to access.
--Though the due date for Release Candidate 1 is March 2018, we're planning on completing most of our work by the end of 2017 (to allow pen testing to take place in Jan 2018)
+- We're going to start planning and reporting progress to CDP Releases, but call out teh added benefits, new features and which tenants (ie ABC, HMPO etc) these are of value to. This will be on our shared roadmap which you'll all be able to access.
+- Though the due date for Release Candidate 1 is March 2018, we're planning on completing most of our work by the end of 2017 (to allow pen testing to take place in Jan 2018)
 
 [Click here for metrics](metrics.html)

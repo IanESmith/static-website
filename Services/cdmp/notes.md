@@ -14,7 +14,7 @@ Our main challenge is remains around having a very small technical team. We're w
 - agreed scope for pen testing
 
 ### About to do/doing
-- now that we have completed Release Candidate 1A, i'll rebuild the metrics and burnup to show progress towards having a live platform (ie Release Candidate 1)
+- now that we have completed Release Candidate 1A, I'll rebuild the metrics and burnup to show progress towards having a live platform (ie Release Candidate 1)
 - ensure we are logging to meet the ABC and Security needs
 - create the CDP account on ServiceNow
 - start connecting (and testing) ABC to the CDP (if they are ready)

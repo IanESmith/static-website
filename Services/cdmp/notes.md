@@ -7,7 +7,7 @@ Working with our Advanced Border Control and HMPO colleagues to provide a platfo
 Our main challenge is remains around having a very small technical team. We're working to resolve this and tracking progress so able to see the velocity (and any impact on due dates). 
 
 ### Just done
--opened up access to the teams Confluence Space making it easier for you to find things like [Team Details](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Team)
+- opened up access to the teams Confluence Space making it easier for you to find things like [Team Details](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Team)
 - interviewed three devops candidates
 - fed all the work from the security risk assessment into our roadmap and backlog
 - had a test and development lead review  our developement  & test strategy and made some recommendations

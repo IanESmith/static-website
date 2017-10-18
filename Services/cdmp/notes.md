@@ -26,4 +26,4 @@ Our main challenge is remains around having a very small technical team. We're w
 - We're going to chnage our terminology ie start reporting progress to 'CDP Releases' (but call out the added benefits, new features and which tenants (ie ABC, HMPO etc) these are of value to). This will also be on our shared roadmap which you'll be able to access by next week
 - Though the due date for Release Candidate 1 is March 2018, we're planning on completing most of our work by the end of 2017 (to allow pen testing to take place in Jan 2018)
 
-[Click here for metrics](metrics.html)
+Im building a new burnup and metric page to now show progress towards Release Candidate 1. This should available in a couple of days....

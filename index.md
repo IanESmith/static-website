@@ -1,18 +1,8 @@
-# Welcome to this new site
+# Home Office Delivery Performance
 
-This is just a quick test to check I'm doing it right.
+Where you can see how well we are able to deliver. Will be basic for the first weeks but then real data will start to be added.
 
-Some of the cheeses I like are:
-
-- Cheddar
-- Blue
-- Wensleydale
-
-## Personal things
-
-My favourite movies are:
-
-1. Heat
-2. Fight Club
-3. Any Marvel film
-
+Discovery | Alpha | Beta  | Live
+------------ | ------------- | ------------ | -------------
+   | [Common Data Matching Platform](Services/cdmp/notes.html) |  | 
+   | [Digital Permissions](Services/digital_permissions.html) | |

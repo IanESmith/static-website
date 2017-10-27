@@ -21,6 +21,7 @@ Our main challenge is remains around having a very small technical team. We're w
 - finalise the detailed roadmap to onboard HMPO
 - update the roadmap and share with with you all
 - create new burnup to cover the remaining work for the ABC release candidate 1
+- finalised the roadmap to now show ABC release 2 and HMPO deliverables
 
 ### Things to be aware off
 - We're going to chnage our terminology ie start reporting progress to 'CDP Releases' (but call out the added benefits, new features and which tenants (ie ABC, HMPO etc) these are of value to). This will also be on our shared roadmap which you'll be able to access by next week

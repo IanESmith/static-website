@@ -1,6 +1,6 @@
 ## Common Data Matching Platform
 
-### Summary as of 31 October  2017
+### Summary as of 31 October 2017
 Working with our Advanced Border Control and HMPO colleagues to provide a platform for their data by 2018 and then start to onboard more tenants.
 
 ### What is blocking us
@@ -23,5 +23,4 @@ We're also still waiting for our ABC colleages to be ready to connect to CDP and
 ### Things to be aware off
 - Dont forget the [https://collaboration.homeoffice.gov.uk/display/CDP/A.+Team](CDP Team details) are available if you need to find someone or ask a question.
 - The burnups are a very effective way to see real status - if you dont know how to 'read' these, let me know and i'll schedule a session to show how they work
-
-Im building a new burnup and metric page to now show progress towards Release Candidate 1. This should available in a couple of days....
+- On the [metrics](metrics.html)  page, there are a few changes in the improved granularity of our tracking and reporting so you are seeing the ABC high level milestones mixed with a few lower level HMPO ones. Note that this doesnt impact the metrics, and from Release 2 onwards is more consistent.

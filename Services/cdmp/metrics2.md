@@ -1,24 +1,24 @@
-### Progress v time
-<div id="gauge"></div>
-<script>
+## Common Data Matching Platform
+### Metrics
 
-var chart = c3.generate({
-bindto: "#gauge",
-data: {
-columns: [
-['time', 75],
-['work', 66]
-],
-type: 'gauge',
-},
-gauge: {
-min: 0,
-max: 100
-}
-});
+| Release |Completed  | Due | Predicted |
+|:-----| :-----:|:-----:|:-----:|
+|Release 1  | 69% |20-Dec-17 | 20-Feb-17 |
 
-</script>
-### Release 1A Burn up
+| Epic |Completed  | 
+|:-----| :-----:|
+|ABC Security: Functionality	  | 80% |
+|Automation of ABC R1  |  30% |
+|Create an on-boarding checklist | 0% |
+| Data Services - HMPO Pole Standard | 5% |
+| Ensure HMPO can test migration scripts  | 0% |
+| Infrastructure (dev and test) for ABC |  100% |
+|Logging & Monitoring (for ABC) | 0% |
+|Roadmap for HMPO | 75% |
+|Services (for ABC) |100% |
+|Encryption in flight | 90% |
+
+### Release 1 Burn up
 <div id="chart1"></div>
 <script>
 var chart = c3.generate({
@@ -35,10 +35,10 @@ label: 'Work'
 data: {
 x: 'x',
 columns: [
-['x', 1, 2, 3, 4, 5, 6,7],
-['done', 15.3, 15, 16, 0, 0, 0, 0],
-['to do', 42.8, 40, 29, 0, 0, 0, 0],
-['required', 7, 16, 21, 27, 33, 40, 47],
+['x', 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+['done', 6, 13, 18, 24, 31, 40, 48, 0, 0, 0, 0],
+['to do', 94, 87, 82, 76, 69, 60, 52,0 ,0 , 0, 0],
+['required', 9, 18, 27, 36, 45, 55, 64, 73, 82, 91, 100],
 ],
 
 type: 'bar',
@@ -59,6 +59,17 @@ bindto: '#chart1'
 });
 </script>
 
+| Release |Completed  | Due | Predicted |
+|:-----| :-----:|:-----:|:-----:|
+|Release 1.1  | 34% |20-Dec-17 | 20-Feb-17 |
+
+| Release |Completed  | Due | Predicted |
+|:-----| :-----:|:-----:|:-----:|
+|Release 2  | 20% |28-Feb-18 | 22-Apr-18 |
+
+| Release |Completed  | Due | Predicted |
+|:-----| :-----:|:-----:|:-----:|
+|Release 3  | 18% |01-Aug-18 | 27-Apr-18 |
 
 
 ### Team Health
@@ -78,19 +89,19 @@ format: '%m-%Y'
 data: {
 x: 'x',
 columns: [
-['x', '2017-07-07', '2017-08-07', '2017-09-12'],
-['data1', 2.8, 3.3,4.0],
-['data2', 2.8, 4.0,3.7],
-['data3', 3.2, 3.5,3.7],
-['data4', 3.2, 3.8,4.0],
-['data5', 3.0, 4.5,4.0],
-['data6', 3.0, 3.8,4.0],
-['data7', 3.4, 2.8,3.0],
-['data8', 3.4, 3.5,4.3],
-['data9', 2.6, 3.5,3.3],
-['data10', 4.0, 4.0,4.0],
-['data11', 3.2, 3.8,4.0],
-['data12', 3.6, 3.0,4.0]
+['x', '2017-07-07', '2017-08-07', '2017-09-12', '2017-10-12'],
+['data1', 2.8, 3.3,4.0,4.3],
+['data2', 2.8, 4.0,3.7,4.3],
+['data3', 3.2, 3.5,3.7,4.8],
+['data4', 3.2, 3.8,4.0,4.5],
+['data5', 3.0, 4.5,4.0,4.8],
+['data6', 3.0, 3.8,4.0,3.0],
+['data7', 3.4, 2.8,3.0,3.5],
+['data8', 3.4, 3.5,4.3,3.5],
+['data9', 2.6, 3.5,3.3,4.5],
+['data10', 4.0, 4.0,4.0,4.0],
+['data11', 3.2, 3.8,4.0,3.5],
+['data12', 3.6, 3.0,4.0,5.0]
 ],
 
 names: {
@@ -136,3 +147,6 @@ bindto: '#chart2'
 });
 </script>
 Every month the team anonomously score how they feeling, from 1 to 5. The lower the number, the worse the team 'health' (which has a negative impact on quality). The results are averaged on this chart. 
+
+
+[Click here for sprint notes](notes.html)

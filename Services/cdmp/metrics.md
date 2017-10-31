@@ -3,18 +3,22 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release Candidate 1A  | 69% |25-Oct-17 | 16-Nov-17 |
+|Release 1  | 69% |20-Dec-17 | 20-Feb-17 |
 
 | Epic |Completed  | 
 |:-----| :-----:|
-| [Infrastructure](https://jira.digital.homeoffice.gov.uk/browse/CDMP-83) | 100% | 
-| [Services](https://jira.digital.homeoffice.gov.uk/browse/CDMP-85)|  100% | 
-| [Security](https://jira.digital.homeoffice.gov.uk/browse/CDMP-86) | 100% |  
-| [Monitoring](https://jira.digital.homeoffice.gov.uk/browse/CDMP-87) |  25% |
-| [Create Roadmap for HMPO](https://jira.digital.homeoffice.gov.uk/browse/CDMP-80)|  50% |
+|ABC Security: Functionality	  | 80% |
+|Automation of ABC R1  |  30% |
+|Create an on-boarding checklist | 0% |
+| Data Services - HMPO Pole Standard | 5% |
+| Ensure HMPO can test migration scripts  | 0% |
+| Infrastructure (dev and test) for ABC |  100% |
+|Logging & Monitoring (for ABC) | 0% |
+|Roadmap for HMPO | 75% |
+|Services (for ABC) |100% |
+|Encryption in flight | 90% |
 
-
-### Release 1A Burn up
+### Release 1 Burn up
 <div id="chart1"></div>
 <script>
 var chart = c3.generate({

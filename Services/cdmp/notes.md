@@ -1,11 +1,11 @@
 ## Common Data Matching Platform
 
 ### Summary as of 31 October 2017
- - Working with our Advanced Border Control and HMPO colleagues to provide a platform for their data by 2018 and then start to onboard more tenants.
+ - working with our Advanced Border Control and HMPO colleagues to provide a platform for their data by 2018 and then start to onboard more tenants.
 
 ### What is blocking us
-- Although our main challenge is around having a very small team, we are planning on bringing on three new team members in the next few weeks
-- We're also still waiting for our ABC colleages to be ready to connect to CDP and start testing. This was due mid October.
+- although our main challenge is around having a very small team, we are planning on bringing on three new team members in the next few weeks
+- we're also still waiting for our ABC colleages to be ready to connect to CDP and start testing. This was due mid October.
 
 ### Just done
 - finalised the detailed plan and roadmap to onboard HMPO
@@ -20,4 +20,4 @@
 - publish the new tracking and predictability metrics covering all CDP releases
 
 ### Things to be aware off
-- Dont forget the [CDP Team details](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Team) are available if you need to find someone or ask a question
+- dont forget the [CDP Team details](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Team) are available if you need to find someone or ask a question

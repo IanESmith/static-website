@@ -21,6 +21,6 @@ We're also still waiting for our ABC colleages to be ready to connect to CDP and
 - create the CDP account on ServiceNow
 
 ### Things to be aware off
-- Dont forget the [https://collaboration.homeoffice.gov.uk/display/CDP/A.+Team](CDP Team details) are available if you need to find someone or ask a question.
+- Dont forget the [CDP Team details](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Team) are available if you need to find someone or ask a question.
 - The burnups are a very effective way to see real status - if you dont know how to 'read' these, let me know and i'll schedule a session to show how they work
-- On the [metrics](metrics.html)  page, there are a few changes in the improved granularity of our tracking and reporting so you are seeing the ABC high level milestones mixed with a few lower level HMPO ones. Note that this doesnt impact the metrics, and from Release 2 onwards is more consistent.
+- On the [metrics](metrics.html) page, there are a few changes in the improved granularity of our tracking and reporting so you are seeing the ABC high level milestones mixed with a few lower level HMPO ones. Note that this doesnt impact the metrics, and from Release 2 onwards is more consistent.

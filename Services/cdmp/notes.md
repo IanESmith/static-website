@@ -14,7 +14,7 @@ We're also still waiting for our ABC colleages to be ready to connect to CDP and
 - continued all the work to have the platform ready to be accredited and live by Feb 2018
 
 ### About to do/doing
-- working with the ABC product manager to confirm the scope of Release 2
+- working with the ABC Product Manager to confirm the scope of Release 2
 - support our ABC colleages when they are ready to connect to the CDP and begin testing
 - create the CDP account on ServiceNow to prepare for Live Support
 - publish the new tracking and predictability metrics covering all CDP releases

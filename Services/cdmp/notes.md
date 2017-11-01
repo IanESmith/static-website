@@ -8,12 +8,12 @@ Although our main challenge is around having a very small team, we are planning 
 We're also still waiting for our ABC colleages to be ready to connect to CDP and start testing. This was due mid October.
 
 ### Just done
-- finalised the detailed plan and roadmap to onboard HMPO
 - updated the [Roadmap](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Roadmap) in Confluence (showing high level milestones) and detailed plan in [Jira](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201) (showing all the detail). Note that  access to Jira is restricted
 - ensured our plans for logging meet the ABC and security accreditation needs
 - continued all the work to have the platform ready to be accredited and live by Feb 2018
 
 ### About to do/doing
+- finalise the detailed plan and roadmap to onboard HMPO
 - working with the ABC Product Manager to confirm the scope of Release 2
 - support our ABC colleages when they are ready to connect to the CDP and begin testing
 - create the CDP account on ServiceNow to prepare for Live Support

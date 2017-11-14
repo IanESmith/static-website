@@ -9,7 +9,7 @@ We're hanging on. We have recently added a product manager and developer to the 
 ### Just done
 - supported our ABC colleagues to successfully connect to the CDP on development and test environments
 - refined the [metrics](metrics.html) around planning and predictablity (rechecking sizes & progress)
-- started our first HMPO epic, to enable them to start building and testing migration scripts
+- started our first HMPO epic (to enable them to start building and testing migration scripts)
 - met with Hortonworks team to ensure they are aware of our plans and able to support
 
 ### About to do/doing

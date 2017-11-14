@@ -25,7 +25,7 @@ With two new starters, there has been some frustratiing blockers. For example, w
 
 Our sprint notes are meant to be fairly light, but we're aware of the need for effective reporting. So, once we're on the same Jira and Confluence, we'll build a full set of reports and dashboards covering both programme and project (meaning you can easily glean what you need). 
 
-OUr show and tells take place the last week of every month and are a great way to find out what we're doing and to ask any questions you may have.
+Our show and tells take place the last week of every month and are a great way to find out what we're doing and to ask any questions you may have.
 
 [Click here for our high level roadmap](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Roadmap), which also allows you to drill down to Jira level if you like lots of detail
 

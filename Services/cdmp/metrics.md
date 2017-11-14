@@ -1,37 +1,12 @@
 ## Common Data Matching Platform
 ### Metrics
 
+
+### Release 1
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release 1  | 69% |20-Dec-17 | 20-Feb-17 |
+|Release 1  | 57% |20-Dec-17 | 20-Jan-17 |
 
-| Epic |Completed  | 
-|:-----| :-----:|
-|ABC Security: Functionality	  | 80% |
-|Automation of ABC R1  |  30% |
-|Create an on-boarding checklist | 0% |
-| Data Services - HMPO Pole Standard | 5% |
-| Ensure HMPO can test migration scripts  | 0% |
-| Infrastructure (dev and test) for ABC |  100% |
-|Logging & Monitoring (for ABC) | 0% |
-|Roadmap for HMPO | 75% |
-|Services (for ABC) |100% |
-|Encryption in flight | 90% |
-
-### Release 1 Burn up
-Under consruction
-
-| Release |Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release 1.1  | 34% |20-Dec-17 | 20-Feb-17 |
-
-| Release |Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release 2  | 20% |28-Feb-18 | 22-Apr-18 |
-
-| Release |Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release 3  | 18% |01-Aug-18 | 27-Apr-18 |
 
 
 ### Team Health

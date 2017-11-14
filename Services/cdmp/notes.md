@@ -23,6 +23,10 @@ We're hanging on. We have recently added a product manager and developer to the 
 ### Things to be aware off
 With two new starters, there has been some frustratiing blockers. For example, without a HO email address theres no access to our core developer tools and systems meaning its hard to get up and running quickly. The team health check shows a bit of a dip, possibly caused by this frustration. Our retrospective should help us uncover the reasons and we can look for ways to help.
 
+Our sprint notes are meant to be fairly light, but we're aware of the need for effective reporting. So, once we're on the same Jira and Confluence, we'll build a full set of reports and dashboards covering both programme and project (meaning you can easily glean what you need). 
+
+OUr show and tells take place the last week of every month and are a great way to find out what we're doing and to ask any questions you may have.
+
 [Click here for our high level roadmap](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Roadmap), which also allows you to drill down to Jira level if you like lots of detail
 
 [Click here for metrics](metrics.html)

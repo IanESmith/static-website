@@ -21,7 +21,7 @@ We're hanging on. We have recently added a product manager and developer to the 
 - review/action the risks/issues/blockers and then add to our reporting metrics
 
 ### Things to be aware off
-With two new starters, there has been some frustrations. For example, without a HO email address theres no access to our core developer tools and systems meaning its hard to get up and running quickly. The team health check shows a bit of a dip, possibly caused by this frustration. Our retrospective should help us uncover the reasons and we can look for ways to help.
+With two new starters, there has been some frustratiing blockers. For example, without a HO email address theres no access to our core developer tools and systems meaning its hard to get up and running quickly. The team health check shows a bit of a dip, possibly caused by this frustration. Our retrospective should help us uncover the reasons and we can look for ways to help.
 
 [Click here for our high level roadmap](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Roadmap), which also allows you to drill down to Jira level if you like lots of detail
 

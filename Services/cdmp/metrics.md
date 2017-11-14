@@ -3,9 +3,11 @@
 
 
 ### Release 1
+
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
 |Release 1  | 57% |20-Dec-17 | 20-Jan-17 |
+
 
 ### Release 1 Burn up
 <div id="chart1"></div>

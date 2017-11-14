@@ -8,7 +8,7 @@ All good at present. We have recently added a product manager and developer to t
 
 ### Just done
 - supported our ABC colleagues who have successfully connected to the CDP (on development and test environments)
-- refined the [metrics](Metrics.html) around planning and predictablity
+- refined the [metrics](metrics.html) around planning and predictablity
 - started our first HMPO epic, to enable them to start building and testing migration scripts
 - published the new tracking and predictability metrics covering all CDP releases
 - met with Hortonworks team to ensure they are aware of our plans
@@ -26,4 +26,4 @@ With two new starters, there has been some frustrations about how long it has ta
 
 [Click here for our high level roadmap](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Roadmap), which also allows you to drill down to Jira level if you like lots of detail
 
-[Click here for metrics](Metrics.html)
+[Click here for metrics](metrics.html)

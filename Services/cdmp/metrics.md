@@ -6,7 +6,7 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release 1  | 57% |20-Dec-17 | 20-Jan-17 |
+|Release 1  | 64% |20-Dec-17 | 20-Jan-17 |
 
 
 ### Release 1 Burn up

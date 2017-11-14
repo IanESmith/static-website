@@ -8,13 +8,14 @@ All good at present. We have recently added a product manager and developer to t
 
 ### Just done
 - supported our ABC colleagues who have successfully connected to the CDP (on development and test environments)
-- completing all the Release 1 work with the focus on completing the automation
 - refined the [metrics](Metrics.html) around planning and predictablity
 - started our first HMPO epic, to enable them to start building and testing migration scripts
 - published the new tracking and predictability metrics covering all CDP releases
+- met with Hortonworks team to ensure they are aware of our plans
 
 ### About to do/doing
 - final session with HMPO to agree the detailed plan and roadmap
+- completing all the Release 1 work (completing the automation)
 - start building the services for Release 2
 - create the CDP account on ServiceNow to prepare for Live Support (this is taking a while but isnt a problem)
 - migrate to the Collaboration Jira instance so we can provide real time reporting via Confluence

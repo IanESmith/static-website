@@ -1,9 +1,6 @@
 ## Common Data Matching Platform
 ### Metrics
 
-
-### Release 1
-
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
 |Release 1  | 64% |20-Dec-17 | 20-Jan-17 |

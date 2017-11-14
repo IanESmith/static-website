@@ -1,23 +1,28 @@
 ## Common Data Matching Platform
 
-### Summary as of 31 October 2017
+### Summary as of 14 November 2017
 Working with our Advanced Border Control and HMPO colleagues to provide a platform for their data by 2018 and then start to onboard more tenants.
 
 ### What is blocking us
-Although our main challenge is around having a very small team, we are planning on bringing on three new team members in the next few weeks.
-We're also still waiting for our ABC colleages to be ready to connect to CDP and start testing. This was due mid October.
+All good at present. We have recently added a product manager and developer to the team.
 
 ### Just done
-- updated the [Roadmap](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Roadmap) in Confluence (showing high level milestones) and detailed plan in [Jira](https://jira.digital.homeoffice.gov.uk/secure/Dashboard.jspa?selectPageId=13201) (showing all the detail). Note that  access to Jira is restricted
-- ensured our plans for logging meet the ABC and security accreditation needs
-- continued all the work to have the platform ready to be accredited and live by Feb 2018
+- supported our ABC colleagues who have successfully connected to the CDP (on development and test environments)
+- completing all the Release 1 work with the focus on completing the automation
+- refined the [metrics](Metrics.html) around planning and predictablity
+- started our first HMPO epic, to enable them to start building and testing migration scripts
+- published the new tracking and predictability metrics covering all CDP releases
 
 ### About to do/doing
-- finalise the detailed plan and roadmap to onboard HMPO
-- working with the ABC Product Manager to confirm the scope of Release 2
-- support our ABC colleages when they are ready to connect to the CDP and begin testing
-- create the CDP account on ServiceNow to prepare for Live Support
-- publish the new tracking and predictability metrics covering all CDP releases
+- final session with HMPO to agree the detailed plan and roadmap
+- start building the services for Release 2
+- create the CDP account on ServiceNow to prepare for Live Support (this is taking a while but isnt a problem)
+- migrate to the Collaboration Jira instance so we can provide real time reporting via Confluence
+- add risks/issues/blockers to our reporting metrics
 
 ### Things to be aware off
-Dont forget the [CDP Team details](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Team) are available if you need to find someone or ask a question.
+With two new starters, there has been some frustrations about how long it has taken to get them up and running. Without a HO email address theres no access to our core developer tools and systems. The team health check shows a bit of a dip, possibly caused by this frustration.
+
+[Click here for our high level roadmap](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Roadmap), which also allows you to drill down to Jira level if you like lots of detail
+
+[Click here for metrics](Metrics.html)

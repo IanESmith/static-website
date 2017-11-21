@@ -11,6 +11,7 @@ We're hanging on. We have recently added a product manager and developer to the 
 - refined the [metrics](metrics.html) around planning and predictablity (rechecking sizes & progress)
 - started our first HMPO epic (to enable them to start building and testing migration scripts)
 - met with Hortonworks team to ensure they are aware of our plans and able to support
+- published our [sprint goals](https://collaboration.homeoffice.gov.uk/display/CDP/E.+Sprint+Goals)
 
 ### About to do/doing
 - final session with HMPO to agree the detailed plan and roadmap
@@ -21,7 +22,11 @@ We're hanging on. We have recently added a product manager and developer to the 
 - review/action the risks/issues/blockers and then add to our reporting metrics
 
 ### Things to be aware off
-With two new starters, there has been some frustrating blockers. For example, without a HO email address theres no access to our core developer tools and systems meaning its hard to get up and running quickly. The team health check shows a bit of a dip, possibly caused by this frustration. Our retrospective should help us uncover the reasons and we can look for ways to help.
+Christmas key dates:
+- last show and tell - Nov 21
+- last retrospective - 12 Dec
+- full team available until 15 Dec, then skeleton team until 22nd of Dec.
+- all back for 2018 on Jan 2
 
 Our sprint notes are meant to be fairly light, but we're aware of the need for effective reporting. So, once we're on the same Jira and Confluence, we'll build a full set of reports and dashboards covering both programme and project (meaning you can easily glean what you need). 
 

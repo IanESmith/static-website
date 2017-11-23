@@ -12,6 +12,7 @@ We're hanging on. We have recently added a product manager and developer to the 
 - started our first HMPO epic (to enable them to start building and testing migration scripts)
 - met with Hortonworks team to ensure they are aware of our plans and able to support
 - published our [sprint goals](https://collaboration.homeoffice.gov.uk/display/CDP/E.+Sprint+Goals)
+- recieved commercial and financual approval (and submitted our request to purchase) four [hardware security modules](https://hsm.utimaco.com/products/general-purpose-hsm/securityserver-se-gen2/)
 
 ### About to do/doing
 - final session with HMPO to agree the detailed plan and roadmap

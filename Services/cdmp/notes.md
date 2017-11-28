@@ -1,27 +1,24 @@
 ## Common Data Matching Platform
 
-### Summary as of 14 November 2017
+### Summary as of 28 November 2017
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-We're hanging on. We have recently added a product manager and developer to the team.
+All good for now.
 
 ### Just done
-- supported our ABC colleagues to successfully connect to the CDP on development and test environments
-- refined the [metrics](metrics.html) around planning and predictablity (rechecking sizes & progress)
-- started our first HMPO epic (to enable them to start building and testing migration scripts)
-- met with Hortonworks team to ensure they are aware of our plans and able to support
-- published our [sprint goals](https://collaboration.homeoffice.gov.uk/display/CDP/E.+Sprint+Goals)
-- recieved commercial and financual approval to submitted our request to purchase four [hardware security modules](https://hsm.utimaco.com/products/general-purpose-hsm/securityserver-se-gen2/)
-- had our test strategy agreed by test lead and plans for adding a resource to ensure the team continue to have the appropriate test coverage for both services and infrastucture as we grow
+- recieved commercial and financial approval for the Request to Purchase four [hardware security modules](https://hsm.utimaco.com/products/general-purpose-hsm/securityserver-se-gen2/)
+- planning to add a resource to continue to develop the appropriate test coverage for services and infrastucture
+- completing the logging and montitoring functionality
+- created the CDP account on ServiceNow to prepare for Live Support
+- started building the services for Release 2
+- migrated to the Collaboration Jira instance so we can provide real time reporting via Confluence
 
 ### About to do/doing
-- final session with HMPO to agree the detailed plan and roadmap
-- completing all the Release 1 work (mainly the remaining automation)
-- start building the services for Release 2
-- create the CDP account on ServiceNow to prepare for Live Support (this is taking a while but isnt a problem)
-- migrate to the Collaboration Jira instance so we can provide real time reporting via Confluence
-- review/action the risks/issues/blockers and then add to our reporting metrics
+
+- support ABC testing
+- session with HMPO delivery team to to progress the plan and roadmap
+- complet all the Release 1 work (mainly the remaining automation)
 
 ### Things to be aware off
 Christmas key dates:

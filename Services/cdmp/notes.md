@@ -27,8 +27,8 @@ Christmas key dates:
 - full team available until 15 Dec, then skeleton team until 22nd of Dec.
 - all back for 2018 on Jan 2
 
-Our show and tells take place the last week of every month and are a great way to find out what we're doing and to ask any questions you may have.
 
 [Click here for our high level roadmap](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Roadmap), which also allows you to drill down to Jira level if you like lots of detail
 
 [Click here for metrics](metrics.html)
+Note that we have two epics we were hoping to complete this year and are a bit behing (our onboarding checklist and HNMPO Pole standard) but they are not going to impact Release 1.

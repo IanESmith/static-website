@@ -31,4 +31,4 @@ Christmas key dates:
 [Click here for our high level roadmap](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Roadmap), which also allows you to drill down to Jira level if you like lots of detail
 
 [Click here for metrics](metrics.html)
-Note that we have two epics we were hoping to complete this year and are a bit behing (our onboarding checklist and HNMPO Pole standard) but they are not going to impact Release 1.
+Note that we have two epics we were hoping to complete this year and are a bit behing (our onboarding checklist and HMPO Pole standard) but they are not going to impact Release 1 if a little late.

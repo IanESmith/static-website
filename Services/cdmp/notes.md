@@ -15,7 +15,7 @@ For now, we're ok. The burnup has flatlined a little, mainy caused by a few folk
 - helped the programme team begin to get all their work into jira so project and programme reporting use same process/tools
 
 ### About to do/doing
-- complete the Release 1 logging and monitoring - nearly done
+- complete the Release 1 logging and monitoring (some issues around network connectivity)
 - work with the I&P Team to plan the racking of the Hardware Security Modules and the Active Directory connectivity
 - work with the LEV team on using an API to update ServiceNow from version control and Jiua
 - more support for ABC testing

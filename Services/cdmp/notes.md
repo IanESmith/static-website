@@ -4,7 +4,7 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-For now, we're ok.
+For now, we're ok. The burnup has flatlined a little, mainy caused by a few folk not being around to update jira! I'll republish this in a couple of days...
 
 ### Just done
 - more sessions with HMPO delivery team to to progress the plan and roadmap

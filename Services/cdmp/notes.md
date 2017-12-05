@@ -1,6 +1,6 @@
 ## Common Data Matching Platform
 
-### Summary as of 6 December 2017
+### Summary as of 5 December 2017
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us

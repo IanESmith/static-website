@@ -4,14 +4,14 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-All good for now. Two procurements are required and can be slow but we kicked them off early so hopefully should be ready in time.
+For now, we're ok.
 
 ### Just done
 - more sessions with HMPO delivery team to to progress the plan and roadmap
 - further progressed the preparation for the platform accreditation
 - placed the order for four [hardware security modules](https://hsm.utimaco.com/products/general-purpose-hsm/securityserver-se-gen2/)
-- completed the Release 1 logging and montitoring functionality
-- created the CDP account on ServiceNow to prepare for Live Support
+- completed the Release 1 logging and monitoring functionality
+- created a CDP account on ServiceNow to prepare for Live Support
 - started building the services for Release 2
 - helped the programme team begin to get all their work into jira so project and programme reporting use same process/tools
 

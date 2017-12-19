@@ -4,19 +4,19 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-For now, we're ok. 
+Nothing. Its Christmas
 
 ### Just done
 - completed Release 1
 - more support for ABC testing
-- prepare for the ITHC (Pen testing) for 1st weeks of January
+- preparing for the ITHC (Pen testing) for 1st weeks of January
+- added a developer to the team
 
 ### About to do/doing
--arranging the ITHC
-- arranging dlivery and intsallation of teh Hardware Secutiry MOdules
+- review the plan for Release 1.1 (ie going live) and publish the metrics
+- arranging delivery and intsallation of the Hardware Security Modules
 - add someone to the team to progress the test coverage
 - work with the LEV team on using an API to update ServiceNow from version control and Jiua
-- add a new developer to the team
 
 ### Things to be aware off
 Christmas key dates:

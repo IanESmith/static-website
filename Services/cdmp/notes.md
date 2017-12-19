@@ -1,27 +1,22 @@
 ## Common Data Matching Platform
 
-### Summary as of 5 December 2017
+### Summary as of 20 December 2017
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-For now, we're ok. The burnup has flatlined a little, mainy caused by a few folk not being around to update jira! I'll republish this in a couple of days...
+For now, we're ok. 
 
 ### Just done
-- more sessions with HMPO delivery team to to progress the plan and roadmap
-- further progressed the preparation for the platform accreditation
-- placed the order for four [hardware security modules](https://hsm.utimaco.com/products/general-purpose-hsm/securityserver-se-gen2/)
-- created a CDP account on ServiceNow to prepare for Live Support
-- started building the services for Release 2
-- helped the programme team begin to get all their work into jira so project and programme reporting use same process/tools
+- completed Release 1
+- more support for ABC testing
+- prepare for the ITHC (Pen testing) for 1st weeks of January
 
 ### About to do/doing
-- complete the Release 1 logging and monitoring (some issues around network connectivity)
-- work with the I&P Team to plan the racking of the Hardware Security Modules and the Active Directory connectivity
-- work with the LEV team on using an API to update ServiceNow from version control and Jiua
-- more support for ABC testing
-- complete all the Release 1 work (mainly the remaining automation)
+-arranging the ITHC
+- arranging dlivery and intsallation of teh Hardware Secutiry MOdules
 - add someone to the team to progress the test coverage
-- prepare for the ITHC (Pen testing) for 1st weeks of January
+- work with the LEV team on using an API to update ServiceNow from version control and Jiua
+- add a new developer to the team
 
 ### Things to be aware off
 Christmas key dates:

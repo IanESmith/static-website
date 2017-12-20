@@ -79,7 +79,8 @@ columns: [
 ['data9', 3.2, 3.5,4.0 ,4.5 ,4.0 , 4.3],
 ['data10', 3.2,3.8 ,4.0 ,4.0 ,4.5 ,4.3 ],
 ['data11',3.0 ,3.8 ,4.0 ,3.5 ,4.3 ,4.0 ],
-['data12',4.0 ,4.0 ,4.0 ,5.0 ,4.6 ,4.3 ],
+['data12',4.0 ,4.0 ,4.0 ,5.0 ,4.6 ,4.3 ]
+],
 										
 names: {
 data1: 'I don't know whats going on',
@@ -95,7 +96,6 @@ data10:'I dont feel my voice is being heard',
 data11:'I dont feel supported by my team',
 data12:'I dont understand the work that I am doing'
 },
-
 
 types: {
 data1: 'area-spline',

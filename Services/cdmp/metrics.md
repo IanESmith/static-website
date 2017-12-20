@@ -3,7 +3,7 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release 1  | 68% |20-Dec-17 | 9-Feb-17 |
+|Release 1  | 83% |20-Dec-17 | NA |
 
 
 

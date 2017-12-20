@@ -66,35 +66,36 @@ format: '%m-%Y'
 data: {
 x: 'x',
 columns: [
-['x', '2017-07-07', '2017-08-07', '2017-09-12', '2017-10-12', '2017-11-14'],
-['data1', 2.8, 3.3,4.0,4.3, 3.3],
-['data2', 2.8, 4.0,3.7,4.3, 4.0],
-['data3', 3.2, 3.5,3.7,4.8, 4.0],
-['data4', 3.2, 3.8,4.0,4.5, 4.5],
-['data5', 3.0, 4.5,4.0,4.8 ,4.3],
-['data6', 3.0, 3.8,4.0,3.0 ,4.3],
-['data7', 3.4, 2.8,3.0,3.5 ,4.0],
-['data8', 3.4, 3.5,4.3,3.5 ,3.0],
-['data9', 2.6, 3.5,3.3,4.5 ,3.9],
-['data10', 4.0, 4.0,4.0,4.0 ,4.6],
-['data11', 3.2, 3.8,4.0,3.5 ,3.7],
-['data12', 3.6, 3.0,4.0,5.0 ,4.3]
+['x', '2017-07-07', '2017-08-07', '2017-09-12', '2017-10-12', '2017-11-14', '2017-12-14'],
+['data1', 2.8, 3.3,4.0,4.3, 3.3, 1],
+['data2', 2.8, 4.0,3.7,4.3, 4.0,1],
+['data3', 3.2, 3.5,3.7,4.8, 4.0,1],
+['data4', 3.2, 3.8,4.0,4.5, 4.5,1],
+['data5', 3.0, 4.5,4.0,4.8 ,4.3,1],
+['data6', 3.0, 3.8,4.0,3.0 ,4.3,1],
+['data7', 3.4, 2.8,3.0,3.5 ,4.0,1],
+['data8', 3.4, 3.5,4.3,3.5 ,3.0,1],
+['data9', 2.6, 3.5,3.3,4.5 ,3.9,1],
+['data10', 4.0, 4.0,4.0,4.0 ,4.6,1],
+['data11', 3.2, 3.8,4.0,3.5 ,3.7,1],
+['data12', 3.6, 3.0,4.0,5.0 ,4.3,1]
 ],
 										
 names: {
-data1: 'I am not happy with my working environment',
-data2: 'I dont know whats going on',
-data3: 'I dont feel I can raise anything with the whole team',
-data4: 'I dont feel my voice is being heard',
+data1: 'I don't know whats going on',
+data2: 'I feel like I am working on my own',
+data3: 'I feel like work is being pushed on me',
+data4: 'I dont know what work is next',
 data5: 'I dont feel my work contributes to the goal',
-data6: 'I dont feel supported by my team',
-data7: 'I dont get enough time to tackle technical debt',
-data8: 'I dont get time to improve my skills/knowledge',
-data9: 'I dont know what work is next',
-data10:'I dont understand the work that I am doing',
-data11:'I feel like I am working on my own',
-data12:'I feel like work is being pushed on me'
+data6: 'I am not happy with my working environment',
+data7: 'I dont get time to improve my skills/knowledge',
+data8: 'I dont get enough time to tackle technical debt',
+data9: 'I dont feel I can raise anything with the whole team',
+data10:'I dont feel my voice is being heard',
+data11:'I dont feel supported by my team',
+data12:'I dont understand the work that I am doing'
 },
+
 
 types: {
 data1: 'area-spline',

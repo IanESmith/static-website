@@ -64,24 +64,25 @@ format: '%m-%Y'
 }
 },
 
+
 data: {
 x: 'x',
 columns: [
 ['x', '2017-07-07', '2017-08-07', '2017-09-12', '2017-10-12', '2017-11-14', '2017-12-14'],
-['data1',2.8 , 4.0,4.0 ,4.3 ,4.0 ,3.3 ],
-['data2',3.2 , 3.8,3.7 ,4.3 ,3.7 ,4.3 ],
+['data1', 2.8 , 4.0, 4.0 ,4.3 ,4.0 ,3.3],
+['data2', 3.2 , 3.8,3.7 ,4.3 ,3.7 ,4.3],
 ['data3', 3.6,3.0 ,4.0 ,4.8 ,4.3 , 4.3],
-['data4', 2.6,3.5 ,4.0 ,4.5 ,3.9 ,3.7 ],
+['data4', 2.6,3.5 ,4.0 ,4.5 ,3.9 ,3.7],
 ['data5', 3.3,4.5 ,4.0 ,4.8 ,4.3 , 4.0],
-['data6', 2.9,3.3 ,3.0 ,3.0 ,3.3 ,3.0 ],
-['data7',3.7 , 3.5,4.3 ,3.5 ,3.0 ,4.0 ],
-['data8', 3.4, 2.8,3.3 ,3.5 ,4.0 ,3.3 ],
+['data6', 2.9,3.3 ,3.0 ,3.0 ,3.3 ,3.0],
+['data7', 3.7 , 3.5,4.3 ,3.5 ,3.0 ,4.0],
+['data8', 3.4, 2.8,3.3 ,3.5 ,4.0 ,3.3],
 ['data9', 3.2, 3.5,4.0 ,4.5 ,4.0 , 4.3],
-['data10', 3.2,3.8 ,4.0 ,4.0 ,4.5 ,4.3 ],
-['data11',3.0 ,3.8 ,4.0 ,3.5 ,4.3 ,4.0 ],
-['data12',4.0 ,4.0 ,4.0 ,5.0 ,4.6 ,4.3 ]
+['data10', 3.2,3.8 ,4.0 ,4.0 ,4.5 ,4.3],
+['data11', 3.0 ,3.8 ,4.0 ,3.5 ,4.3 ,4.0],
+['data12', 4.0 ,4.0 ,4.0 ,5.0 ,4.6 ,4.3]
 ],
-										
+
 names: {
 data1: 'I don't know whats going on',
 data2: 'I feel like I am working on my own',
@@ -124,7 +125,8 @@ bindto: '#chart2'
 
 });
 </script>
-Every month the team anonomously score how they feeling, from 1 to 5. The lower the number, the worse the team 'health' (which has a negative impact on quality). The results are averaged on this chart. 
+
+Every month the team anonomously scored how they feeling, from 1 to 5. The lower the number, the worse the team 'health' (which has a negative impact on quality). The results are averaged on this chart. 
 
 
 [Click here for sprint notes](notes.html)

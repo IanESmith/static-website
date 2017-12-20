@@ -17,7 +17,8 @@ Nothing. Its Christmas
 - review the plan for Release 2
 - arranging delivery and installation of the Hardware Security Modules
 - add someone to the team to progress the test coverage
-- work with the LEV team on using an API to update ServiceNow from version control and Jiua
+- look at how best we can interface with ServiceNow to provide realtime monitoring and alerts
+- create a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies
 
 ### Things to be aware off
 Christmas key dates:

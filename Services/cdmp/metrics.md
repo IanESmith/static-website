@@ -126,7 +126,7 @@ bindto: '#chart2'
 });
 </script>
 
-Every month the team anonomously scored how they feeling, from 1 to 5. The lower the number, the worse the team 'health' (which has a negative impact on quality). The results are averaged on this chart. 
+Every month the team anonomously scored how they feeling, from 1 to 5. The lower the number, the worse the team 'health' (which has a negative impact on quality). The results are averaged on this chart. Note that this is the last time you'll see this report, from next year we are expanding it to show programme health (so will include more data)
 
 
 [Click here for sprint notes](notes.html)

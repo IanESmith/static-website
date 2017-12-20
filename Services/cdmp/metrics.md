@@ -6,6 +6,7 @@
 |Release 1  | 68% |20-Dec-17 | 9-Feb-17 |
 
 
+
 ### Release 1 Burn up
 <div id="chart1"></div>
 <script>

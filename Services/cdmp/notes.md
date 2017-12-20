@@ -7,14 +7,15 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 Nothing. Its Christmas
 
 ### Just done
-- completed Release 1
+- completed Release 1. We have a few stories we'll carry over to Release 1.1 but none will impact the pentesting or ABC go live (mosty around work for HMPO or automating as much as we can)
 - more support for ABC testing
 - preparing for the ITHC (Pen testing) for 1st weeks of January
 - added a developer to the team
 
 ### About to do/doing
 - review the plan for Release 1.1 (ie going live) and publish the metrics
-- arranging delivery and intsallation of the Hardware Security Modules
+- review the plan for Release 2
+- arranging delivery and installation of the Hardware Security Modules
 - add someone to the team to progress the test coverage
 - work with the LEV team on using an API to update ServiceNow from version control and Jiua
 
@@ -25,8 +26,6 @@ Christmas key dates:
 - full team available until 15 Dec, then skeleton team until 22nd of Dec.
 - all back for 2018 on Jan 2
 
-
 [Click here for our high level roadmap](https://collaboration.homeoffice.gov.uk/display/CDP/A.+Roadmap), which also allows you to drill down to Jira level if you like lots of detail
 
 [Click here for metrics](metrics.html)
-Note that we have two epics we were hoping to complete this year and are a bit behind (our onboarding checklist and HMPO Pole standard) but they are not going to impact Release 1 if a little late.

@@ -84,7 +84,7 @@ columns: [
 ],
 
 names: {
-data1: 'I don't know whats going on',
+data1: 'I dont know whats going on',
 data2: 'I feel like I am working on my own',
 data3: 'I feel like work is being pushed on me',
 data4: 'I dont know what work is next',

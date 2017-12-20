@@ -7,9 +7,9 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 Nothing. Its Christmas
 
 ### Just done
-- completed Release 1. We have a few stories we'll carry over to Release 1.1 but none will impact the pentesting or ABC go live (mosty around work for HMPO or automating as much as we can)
+- completed Release 1. We have a few stories we'll carry over to Release 1.1 but none will impact the penetration testing or ABC go live (since its work for HMPO or automating as much as we can)
 - more support for ABC testing
-- preparing for the ITHC (Pen testing) for 1st weeks of January
+- arranged the ITHC (penetration testing) for 1st weeks of January
 - added a developer to the team
 
 ### About to do/doing

@@ -3,11 +3,11 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release 1  | 83% |20-Dec-17 | NA |
+|Release 1.1  | 0% |31 Mar 2018 |  |
 
 
 
-### Release 1 Burn up
+### Release 1.1 Burn up
 <div id="chart1"></div>
 <script>
 var chart = c3.generate({

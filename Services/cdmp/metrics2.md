@@ -3,22 +3,11 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release 1  | 69% |20-Dec-17 | 20-Feb-17 |
+|Release 1.1  | 0% |31 Mar 2018 |  |
 
-| Epic |Completed  | 
-|:-----| :-----:|
-|ABC Security: Functionality	  | 80% |
-|Automation of ABC R1  |  30% |
-|Create an on-boarding checklist | 0% |
-| Data Services - HMPO Pole Standard | 5% |
-| Ensure HMPO can test migration scripts  | 0% |
-| Infrastructure (dev and test) for ABC |  100% |
-|Logging & Monitoring (for ABC) | 0% |
-|Roadmap for HMPO | 75% |
-|Services (for ABC) |100% |
-|Encryption in flight | 90% |
 
-### Release 1 Burn up
+
+### Release 1.1 Burn up
 <div id="chart1"></div>
 <script>
 var chart = c3.generate({
@@ -36,10 +25,12 @@ data: {
 x: 'x',
 columns: [
 ['x', 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
-['done', 6, 13, 18, 24, 31, 40, 48, 0, 0, 0, 0],
-['to do', 94, 87, 82, 76, 69, 60, 52,0 ,0 , 0, 0],
-['required', 9, 18, 27, 36, 45, 55, 64, 73, 82, 91, 100],
+['done', 6, 13, 19, 25, 31, 38, 44, 50, 53, 53, 66],
+['to do', 73, 67, 60, 54, 48, 42, 35,29 ,26 , 26, 13.2],
+['required', 7, 14, 22, 29, 36, 43, 50, 57, 65, 72, 79],
 ],
+
+
 
 type: 'bar',
 types: {
@@ -59,19 +50,6 @@ bindto: '#chart1'
 });
 </script>
 
-| Release |Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release 1.1  | 34% |20-Dec-17 | 20-Feb-17 |
-
-| Release |Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release 2  | 20% |28-Feb-18 | 22-Apr-18 |
-
-| Release |Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release 3  | 18% |01-Aug-18 | 27-Apr-18 |
-
-
 ### Team Health
 <div id="chart2"></div>
 <script>
@@ -86,37 +64,38 @@ format: '%m-%Y'
 }
 },
 
+
 data: {
 x: 'x',
 columns: [
-['x', '2017-07-07', '2017-08-07', '2017-09-12', '2017-10-12'],
-['data1', 2.8, 3.3,4.0,4.3],
-['data2', 2.8, 4.0,3.7,4.3],
-['data3', 3.2, 3.5,3.7,4.8],
-['data4', 3.2, 3.8,4.0,4.5],
-['data5', 3.0, 4.5,4.0,4.8],
-['data6', 3.0, 3.8,4.0,3.0],
-['data7', 3.4, 2.8,3.0,3.5],
-['data8', 3.4, 3.5,4.3,3.5],
-['data9', 2.6, 3.5,3.3,4.5],
-['data10', 4.0, 4.0,4.0,4.0],
-['data11', 3.2, 3.8,4.0,3.5],
-['data12', 3.6, 3.0,4.0,5.0]
+['x', '2017-07-07', '2017-08-07', '2017-09-12', '2017-10-12', '2017-11-14', '2017-12-14'],
+['data1', 2.8 , 4.0, 4.0 ,4.3 ,4.0 ,3.3],
+['data2', 3.2 , 3.8,3.7 ,4.3 ,3.7 ,4.3],
+['data3', 3.6,3.0 ,4.0 ,4.8 ,4.3 , 4.3],
+['data4', 2.6,3.5 ,4.0 ,4.5 ,3.9 ,3.7],
+['data5', 3.3,4.5 ,4.0 ,4.8 ,4.3 , 4.0],
+['data6', 2.9,3.3 ,3.0 ,3.0 ,3.3 ,3.0],
+['data7', 3.7 , 3.5,4.3 ,3.5 ,3.0 ,4.0],
+['data8', 3.4, 2.8,3.3 ,3.5 ,4.0 ,3.3],
+['data9', 3.2, 3.5,4.0 ,4.5 ,4.0 , 4.3],
+['data10', 3.2,3.8 ,4.0 ,4.0 ,4.5 ,4.3],
+['data11', 3.0 ,3.8 ,4.0 ,3.5 ,4.3 ,4.0],
+['data12', 4.0 ,4.0 ,4.0 ,5.0 ,4.6 ,4.3]
 ],
 
 names: {
-data1: 'I am not happy with my working environment',
-data2: 'I dont know whats going on',
-data3: 'I dont feel I can raise anything with the whole team',
-data4: 'I dont feel my voice is being heard',
+data1: 'I dont know whats going on',
+data2: 'I feel like I am working on my own',
+data3: 'I feel like work is being pushed on me',
+data4: 'I dont know what work is next',
 data5: 'I dont feel my work contributes to the goal',
-data6: 'I dont feel supported by my team',
-data7: 'I dont get enough time to tackle technical debt',
-data8: 'I dont get time to improve my skills/knowledge',
-data9: 'I dont know what work is next',
-data10:'I dont understand the work that I am doing',
-data11:'I feel like I am working on my own',
-data12:'I feel like work is being pushed on me'
+data6: 'I am not happy with my working environment',
+data7: 'I dont get time to improve my skills/knowledge',
+data8: 'I dont get enough time to tackle technical debt',
+data9: 'I dont feel I can raise anything with the whole team',
+data10:'I dont feel my voice is being heard',
+data11:'I dont feel supported by my team',
+data12:'I dont understand the work that I am doing'
 },
 
 types: {
@@ -146,7 +125,8 @@ bindto: '#chart2'
 
 });
 </script>
-Every month the team anonomously score how they feeling, from 1 to 5. The lower the number, the worse the team 'health' (which has a negative impact on quality). The results are averaged on this chart. 
+
+Every month the team anonomously scored how they feeling, from 1 to 5. The lower the number, the worse the team 'health' (which has a negative impact on quality). The results are averaged on this chart. Note that this is the last time you'll see this report, from next year we are expanding it to show programme health (so will include more data)
 
 
-[Click here for sprint notes](notes.html).
+[Click here for sprint notes](notes.html)

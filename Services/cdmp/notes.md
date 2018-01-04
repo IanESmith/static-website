@@ -4,18 +4,16 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-Nothing. Its Christmas
+
 
 ### Just done
-- completed Release 1. We have a few stories we'll carry over to Release 1.1 but none will impact the penetration testing or ABC go live (since its work for HMPO or automating as much as we can)
-- more support for ABC testing
-- arranged the ITHC (penetration testing) for 1st weeks of January
-- added a developer to the team
+- delivered the Hardware Security Modules to the two Home Office data centres
+- created a reporting dashboard for both project and programme (note, some is still work in progress)
 
 ### About to do/doing
+- installing Hardware Security Modules
 - review the plan for Release 1.1 (ie going live) and publish the metrics
 - review the plan for Release 2
-- arranging delivery and installation of the Hardware Security Modules
 - add someone to the team to progress the test coverage
 - look at how best we can interface with ServiceNow to provide realtime monitoring and alerts
 - create a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies

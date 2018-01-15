@@ -1,6 +1,6 @@
 ## Common Data Matching Platform
 
-### Summary as of 20 January 2018
+### Summary as of 18 January 2018
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
@@ -18,6 +18,7 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 - add someone to the team to progress the test coverage
 - create a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies
 -procure a 'break glass' poise laptop
+- welcome a new developer to the team to replace one who leaves end of jan (bringing us to a total of three)
 
 ### Things to be aware off
 

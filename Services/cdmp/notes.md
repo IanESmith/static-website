@@ -17,6 +17,7 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 - finalise the scope for Release 2
 - add someone to the team to progress the test coverage
 - create a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies
+-procure a 'break glass' poise laptop
 
 ### Things to be aware off
 

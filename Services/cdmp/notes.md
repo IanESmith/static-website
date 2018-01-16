@@ -4,7 +4,7 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-
+- we need a decision around the release 2 architectue including image storage, ingestion, graph database
 
 ### Just done
 - installed Hardware Security Modules (ie racked and cabled) into HODC1 and 2

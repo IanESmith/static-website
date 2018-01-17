@@ -4,10 +4,10 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-- we'll soon need a decision around the release 2 architectue including image storage, ingestion, graph database. this is being pulled together but any delays will slow us down
+- we'll soon need a decision around the release 2 architecture including image storage, ingestion, graph database. this is being pulled together but any delays will impact delivery dates
 
 ### Just done
-- installed Hardware Security Modules (ie racked and cabled) into HODC1 and 2
+- finalised plan to installed Hardware Security Modules (ie racked. cabled and commissioned) into HODC1 and 2
 - finalised scope for Release 1.1
 
 ### About to do/doing

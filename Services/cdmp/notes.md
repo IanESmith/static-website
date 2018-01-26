@@ -22,4 +22,4 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 ### Things to be aware off
  - Our high level roadmap is currently being revamped to add in programme milestones as well as project as well as being moved to Confluence to make it a bit more readable. Should be with available in a few days
 
-[Click here for sprint notes](notes.html)
+[Click here for metrics](metrics.html)

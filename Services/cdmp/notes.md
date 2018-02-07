@@ -10,6 +10,7 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 - finalised the scope for Release 2
 - delivered the preprod environment for ABC, Operational and Penetration testing
 - added two new epics around Operational Assurance Testing (hence the jump in scope): the good news is we've also added two testers to the team so this should not impact due dates
+- renamed our slack channel for onboarding tenants from 'cdp_onboarding_abc' to 'cdp_onboarding' in preparation for bringing our HMPO colleages into the mix
 
 ### About to do/doing
 - installing the Hardware Security Modules (ie racked. cabled and commissioned) into HODC1 and 2

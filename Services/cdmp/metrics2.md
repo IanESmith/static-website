@@ -3,7 +3,7 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release 1.1  | 36% |31 Mar 2018 | 31 Mar 2018 |
+|Release 1.1  | 49% |31 Mar 2018 | 31 Mar 2018 |
 
 
 

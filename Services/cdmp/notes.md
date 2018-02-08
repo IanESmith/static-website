@@ -17,6 +17,7 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 - Penetration and Operational Assurance Testing
 - completing all the operational preparation for going live at the end of March
 - create a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies
+- finalsing and documenting the test strategy
 
 ### Things to be aware off
  - Our high level roadmap is currently being revamped to add in programme milestones as well as project as well as being moved to Confluence to make it a bit more readable. Should be with available in a few days

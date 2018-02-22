@@ -4,6 +4,7 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
+- there doesnt seem to be a visible or cohrent plan or management from CSOC team to onboard CDP
 - still seems some ambiguity around what our ABC colleages need from us for 2018 so working closely with them to confirm what they need and when
 
 ### Just done

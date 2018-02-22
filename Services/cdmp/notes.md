@@ -4,17 +4,17 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-- still seems some ambiguity around what our ABC colleages need from us for 2018 so working closely with them to confirm.
+- still seems some ambiguity around what our ABC colleages need from us for 2018 so working closely with them to confirm what they need and when
 
 ### Just done
 - installed the Hardware Security Modules (ie racked and cabled) into HODC1 and 2
-- Penetration and Operational Assurance Testing
+- Penetration testing and fixes
 - created a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies
 - finalised the test strategy
 
 ### About to do/doing
+- complete the OAT and fixes
 - setting up a POISE laptop to use as a 'break glass' solution in case of live incidents
-- fixing the issues found during Penetration and Operational Assurance Testing
 - complete the Hardware Security Modules commissioning 
 - completing all the operational preparation for going live at the end of March
 - documenting the test strategy

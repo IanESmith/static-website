@@ -20,6 +20,8 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 - documenting the test strategy
 - show and tell next wednesday
 - recruiting an analyst (to look for benefits, savings opportunities for the CDP) and a tech 'ambassador' (someone who can share what we are doing across the HO and work with other teams to leverage solutions benefitting both CDP and their own products
+- complete the programme health check questionairre and invite folk to submit their responses
+- publish and share the roadmap for 2018 showing our devliverables for ABC, HMPO and CDP
 
 ### Things to be aware off
  - CDP and ABC due to go live by the end of March

@@ -4,14 +4,14 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-- there doesnt seem to be a visible or cohrent plan or management from CSOC team to onboard CDP
-- still seems some ambiguity around what our ABC colleages need from us for 2018 so working closely with them to confirm what they need and when
+- found out that CSOC have no plan to onboard CDP until the end of 2018, which was a suprise. We are looking at a tactical solution for now and escalating the need for a stategic solution
 
 ### Just done
 - installed the Hardware Security Modules (ie racked and cabled) into HODC1 and 2
 - Penetration testing and fixes
 - created a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies
 - finalised the test strategy
+- only just clarified the user needs for ABC
 
 ### About to do/doing
 - complete the OAT and fixes

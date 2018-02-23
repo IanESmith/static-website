@@ -14,10 +14,11 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 - only just clarified the user needs for ABC
 
 ### About to do/doing
+- get 'Authority to Operate' and Accredication
+- completing all the operational preparation for going live at the end of March
+- complete the Hardware Security Modules commissioning
 - complete the OAT and fixes
 - setting up a POISE laptop to use as a 'break glass' solution in case of live incidents
-- complete the Hardware Security Modules commissioning 
-- completing all the operational preparation for going live at the end of March
 - documenting the test strategy
 - show and tell next wednesday
 - recruiting an analyst (to look for benefits, savings opportunities for the CDP) and a tech 'ambassador' (someone who can share what we are doing across the HO and work with other teams to leverage solutions benefitting both CDP and their own products

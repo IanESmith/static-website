@@ -4,7 +4,7 @@
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ### What is blocking us
-- contrary to what theyd told us, CSOC cant provide us with protective monitoring in marhc and wont onboard us until the end of 2018. Without this we get no ATO and cant go live. We've escalated.
+- contrary to what theyd said, CSOC cant provide us with protective monitoring by March and wont onboard us until Dec 2018. Without this we get no ATO and cant go live. We've escalated.
 
 ### Just done
 - installed the Hardware Security Modules (ie racked and cabled) into HODC1 and 2

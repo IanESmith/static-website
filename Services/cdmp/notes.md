@@ -21,7 +21,7 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 
 ### Just done
 - installed the Hardware Security Modules (ie racked and cabled) into HODC1 and 2
-- clarified the user needs for ABC Release 2- there is a new epic added to support the ABC testing using live data on preprod
+- clarified the user needs for ABC Release 2
 
 ### About to do/doing
 - completing the Hardware Security Modules commissioning

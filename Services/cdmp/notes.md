@@ -1,20 +1,19 @@
 ## Common Data Matching Platform
 
-### Summary as of 28 Feb 2018
+### Summary as of 13 Mar 2018
 Working with our Advanced Border Control and HMPO colleagues to provide a secure platform for their data and then start to onboard more tenants.
 
 ## Release 1.1
 
 ### What is blocking us
-- contrary to what theyd said, CSOC cant provide us with protective monitoring by March and wont onboard us until Dec 2018. Without this we get no ATO and cant go live. We've escalated.
-- the team have not been able to come off their current tasks to support the OAT team so that work is taking longer than expected
+Nothing: ready to go live
 
 ### Just done
-- ITHC (Penetration testing) and fixes and deployed these to all environments
-- added and sized a new epic to support the ABC testing using live data on preprod
+- been given 'Authority to Operate' and Accreditation
+- had CSOC agree to onboard CDP by 5th April (with a short term process agreed to cover the days from go-live to then)
+- c
 
 ### About to do/doing
-- seeking 'Authority to Operate' and Accreditation
 - completing all the operational preparation for going live at the end of March
 
 ## Release 2

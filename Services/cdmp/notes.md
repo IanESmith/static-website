@@ -10,6 +10,7 @@ Nothing: ready to go live
 
 ### Just done
 - been given 'Authority to Operate' and Accreditation
+- GDS have approved our Spend Control
 - had CSOC agree to onboard CDP by 5th April (with a short term process agreed to cover the days from go-live to then)
 
 

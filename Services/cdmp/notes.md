@@ -6,7 +6,7 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 ## Release 1.1
 
 ### What is blocking us
-Nothing: ready to go live
+No much, ie nearly ready to go live. Some of the OAT scope doesnt look quite right for Release 1 but thats more a discussion than a blocker
 
 ### Just done
 - been given 'Authority to Operate' and Accreditation
@@ -16,6 +16,7 @@ Nothing: ready to go live
 
 ### About to do/doing
 - completing all the operational preparation for going live at the end of March
+- working with ABC to test integration to IBM using pre-prod
 
 ## Release 2
 
@@ -35,7 +36,7 @@ Nothing: ready to go live
 
 ### Things to be aware off
  - CDP and ABC due to go live by the end of March
- - We havnt had the time to create a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies but we'll get there
+ - We havnt had the time to finish a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies but we'll get there. Done the blockers!
 
  
 [Click here for metrics](metrics2.html)

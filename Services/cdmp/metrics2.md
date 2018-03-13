@@ -3,9 +3,7 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release 1.1  | 50% |31 Mar 2018 | 21 Apr 2018 |
-
-
+|Release 1.1  | 68% |31 Mar 2018 | 21 Apr 2018 |
 
 ### Release 1.1 Burn up
 <div id="chart1"></div>
@@ -25,8 +23,8 @@ data: {
 x: 'x',
 columns: [
 ['x', 1, 2, 3, 4, 5, 6],
-['done', 27, 29, 39, 43, 0, 0],
-['to do', 35, 51, 41, 42, 0, 0],
+['done', 27, 29, 39, 43, 57, 0],
+['to do', 35, 51, 41, 42, 27, 0],
 ['required', 10, 21, 31, 41, 52, 62],
 ],
 

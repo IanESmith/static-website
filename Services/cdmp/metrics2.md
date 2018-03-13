@@ -3,7 +3,7 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release 1.1  | 68% |31 Mar 2018 | 21 Apr 2018 |
+|Release 1.1  | 68% |31 Mar 2018 | 14 Apr 2018 |
 
 ### Release 1.1 Burn up
 <div id="chart1"></div>

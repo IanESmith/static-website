@@ -11,27 +11,27 @@ Bit worried that TDSC dont seem to have their resources (on both CDP and ABC) wo
 ### Just done
 - completed all the operational preparation for going live at the end of March
 - provided the Production environment to store live ABC flight data
+- ie gone live!
 
 ### About to do/doing
-- close Release 1.1
+- close Release 1.1 in Jira and start reporting progress to teh next release (June)
 
 ## Release 2
 
 ### Just done
 - continued working on the ingestion pipeline, query and CRUD functionality
 - procured and configured 2 laptops to use as a 'break glass' solution in case of live incidents
+- scheduled technical show and tells every two weeks so the developer community can be kept up to date what what we're building
+- recruited an analyst (to look for benefits, savings opportunities for the CDP) and a tech 'ambassador' (someone who can share what we are doing across the HO and work with other teams to leverage solutions benefitting both CDP and their own products
 
 ### About to do/doing
-- clarify the user needs for ABC Release 2
 - completing the Hardware Security Modules commissioning
-- recruiting an analyst (to look for benefits, savings opportunities for the CDP) and a tech 'ambassador' (someone who can share what we are doing across the HO and work with other teams to leverage solutions benefitting both CDP and their own products
 - complete the programme health check questionairre and invite ABC, HMPO and CDP folk to submit their responses
 - publish and share the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP
 - have TDSC complete and publish their test strategy (covering functional, security, performance, infrastructure) and what the split/share /overlap between CDP and its tenants is
 
-
 ### Things to be aware off
-  - We havnt had the time to finish a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies but we'll get there. Done the blockers tho!
+  - Still havnt had the time to finish a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies but we'll get there. Done the blockers tho!
 
  
 [Click here for metrics](metrics2.html)

@@ -6,7 +6,9 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 ## Release 1.1
 
 ### What is blocking us
-Need to ensure that TDSC have their resources (on both CDP and ABC) working to an agreed and coherent test approach. So, we're asking them to ensure this is visible, understood and agreed by both teams in the coming days
+- our backlog and roadmap are a little obtuse and hard to read so we're going to simplify this, and ensure it maps to our tenants needs, making it easier for them to see whats done, in progress or coming up next
+- need to ensure that TDCS have their resources (on both CDP and ABC) working to an agreed and coherent test approach. So, we're asking them to ensure this is visible, understood and agreed by both teams in the coming days
+
 
 ### Just done
 - completed all the operational preparation for going live at the end of March

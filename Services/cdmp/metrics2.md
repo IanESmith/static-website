@@ -30,6 +30,8 @@ columns: [
 
 order: 'null'
 
+},
+
 type: 'bar',
 types: {
 required: 'line',

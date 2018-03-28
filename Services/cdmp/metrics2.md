@@ -34,10 +34,9 @@ types: {
 required: 'line',
 },
 
-groups: [ 
-['to do','done'] ] 
-},
-
+groups: [
+['to do', 'done']
+],
 order: null
 },
 

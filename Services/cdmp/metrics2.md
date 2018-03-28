@@ -28,7 +28,7 @@ columns: [
 ['required', 10, 21, 31, 41, 52, 62],
 ],
 
-order: 'null'
+order: null
 
 },
 

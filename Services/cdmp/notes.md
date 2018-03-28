@@ -6,15 +6,15 @@ Working with our Advanced Border Control and HMPO colleagues to provide a secure
 ## Release 1.1
 
 ### What is blocking us
-Bit worried that TDSC dont seem to have their resources (on both CDP and ABC) working to an agreed and coherent test approach. So, we're asking them to ensure this is visible, understood and agreed by both teams in the coming days
+Need to ensure that TDSC have their resources (on both CDP and ABC) working to an agreed and coherent test approach. So, we're asking them to ensure this is visible, understood and agreed by both teams in the coming days
 
 ### Just done
 - completed all the operational preparation for going live at the end of March
-- provided the Production environment to store live ABC flight data
-- ie gone live!
+- provided the Production environment to store live ABC flight data (ie gone live!)
 
 ### About to do/doing
-- close Release 1.1 in Jira and start reporting progress to teh next release (June)
+- close Release 1.1 in Jira and start reporting progress to the next release (June)
+- changing the title of releases from numbers (ie "release 1,2,3") to months (ie "June Release, October Release")
 
 ## Release 2
 

@@ -27,8 +27,7 @@ columns: [
 ['to do', 35, 51, 41, 42, 27, 1],
 ['required', 10, 21, 31, 41, 52, 62],
 ],
-order: null
-},
+
 
 type: 'bar',
 types: {
@@ -37,6 +36,9 @@ required: 'line',
 
 groups: [ 
 ['to do','done'] ] 
+},
+
+order: null
 },
 
 legend: {

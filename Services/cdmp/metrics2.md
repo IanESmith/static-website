@@ -29,7 +29,6 @@ columns: [
 ],
 
 order: null
-
 },
 
 type: 'bar',

@@ -28,6 +28,8 @@ columns: [
 ['required', 10, 21, 31, 41, 52, 62],
 ],
 
+order: 'null'
+
 type: 'bar',
 types: {
 required: 'line',

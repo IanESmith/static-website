@@ -14,7 +14,8 @@ Need to ensure that TDSC have their resources (on both CDP and ABC) working to a
 
 ### About to do/doing
 - close Release 1.1 in Jira and start reporting progress to the next release (June)
-- changing the title of releases from numbers (ie "release 1,2,3") to months (ie "June Release, October Release")
+- complete several rehearsals of live incident managment and then close the Live Support epic
+- have CSOC complete their work by April 9 and then will close the Protective MOnitoring epic
 
 ## Release 2
 
@@ -25,13 +26,15 @@ Need to ensure that TDSC have their resources (on both CDP and ABC) working to a
 - recruited an analyst (to look for benefits, savings opportunities for the CDP) and a tech 'ambassador' (someone who can share what we are doing across the HO and work with other teams to leverage solutions benefitting both CDP and their own products
 
 ### About to do/doing
+- change the title of releases from numbers (ie "Release 1,2,3") to months (ie "June Release, October Release")
 - completing the Hardware Security Modules commissioning
 - complete the programme health check questionairre and invite ABC, HMPO and CDP folk to submit their responses
 - publish and share the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP
 - have TDSC complete and publish their test strategy (covering functional, security, performance, infrastructure) and what the split/share /overlap between CDP and its tenants is
 
 ### Things to be aware off
-  - Still havnt had the time to finish a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies but we'll get there. Done the blockers tho!
+- THere is a very small amount of work still remaining around Live Support and Protective Monitoring, hence the metrics page still showing 1% remaining 
+  - I need the Product and PMO team to work with me to finish a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies but we'll get there. Done the blockers and Live Incidents reports tho!
 
  
 [Click here for metrics](metrics2.html)

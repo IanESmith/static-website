@@ -36,7 +36,7 @@ required: 'line',
 },
 
 groups: [ 
-['done','to do'] ] 
+['to do','done'] ] 
 },
 
 legend: {

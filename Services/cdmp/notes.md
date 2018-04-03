@@ -28,6 +28,7 @@ We have provided a secure platform for Advanced Border Control data. Now we're g
 - recruited an analyst (to look for benefits, savings opportunities for the CDP) and a tech 'ambassador' (someone who can share what we are doing across the HO and work with other teams to leverage solutions benefitting both CDP and their own products
 
 ### About to do/doing
+- create method of connecting any new environments to the Hardware Security Modules
 - change the title of releases from numbers (ie "Release 1,2,3") to months (ie "June Release, October Release")
 - completing the Hardware Security Modules commissioning
 - complete the programme health check questionairre and invite ABC, HMPO and CDP folk to submit their responses

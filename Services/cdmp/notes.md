@@ -10,22 +10,16 @@ We have provided a secure platform for Advanced Border Control data. Now we're g
 - need to ensure that TDCS have their resources (on both CDP and ABC) working to an agreed and coherent test approach. So, we're asking them to ensure this is visible, understood and agreed by both teams in the coming days
 
 
-### Just done
-- completed all the operational preparation for going live at the end of March
-- provided the Production environment to store live ABC flight data (ie gone live!)
 
-### About to do/doing
-- close Release 1.1 in Jira and start reporting progress to the next release (June)
-- complete several rehearsals of live incident managment and then close the Live Support epic
-- have CSOC complete their work by April 9 and then will close the Protective MOnitoring epic
 
-## Release 2
+## July Release
 
 ### Just done
 - continued working on the ingestion pipeline, query and CRUD functionality
 - procured and configured 2 laptops to use as a 'break glass' solution in case of live incidents
 - scheduled technical show and tells every two weeks so the developer community can be kept up to date what what we're building
 - recruited an analyst (to look for benefits, savings opportunities for the CDP) and a tech 'ambassador' (someone who can share what we are doing across the HO and work with other teams to leverage solutions benefitting both CDP and their own products
+- have CSOC complete their work by April 9 and then will close the Protective Monitoring epic
 
 ### About to do/doing
 - create method of connecting any new environments to the Hardware Security Modules

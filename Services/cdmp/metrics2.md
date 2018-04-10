@@ -3,9 +3,9 @@
 
 | Release |Completed  | Due | Predicted |
 |:-----| :-----:|:-----:|:-----:|
-|Release 1.1  | 99% |27 Mar 2018 | 29 Mar 2018 |
+|June Release  | tbc% | |  |
 
-### Release 1.1 Burn up
+### June Release Burn up
 <div id="chart1"></div>
 <script>
 var chart = c3.generate({

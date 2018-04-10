@@ -27,5 +27,5 @@ We have provided a secure platform for Advanced Border Control data. Now we're g
    - metrics for the next release will be available one the roadmap completed
  
 ### Reporting Dashboards
-[Click here for Blockers](https://collaboration.homeoffice.gov.uk/display/CDP/Blockers)
-[Click here for Live Incidents](https://collaboration.homeoffice.gov.uk/display/CDP/Live+Incidents)
+- [Blockers](https://collaboration.homeoffice.gov.uk/display/CDP/Blockers)
+- [Live Incidents](https://collaboration.homeoffice.gov.uk/display/CDP/Live+Incidents)

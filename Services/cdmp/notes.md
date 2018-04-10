@@ -24,7 +24,3 @@ We have provided a secure platform for Advanced Border Control data. Next we're 
 
 ### Things to be aware off
    - metrics for the next release will be available one the roadmap completed
- 
-### Confluence Reporting Dashboards
-- [Blockers](https://collaboration.homeoffice.gov.uk/display/CDP/Blockers)
-- [Live Incidents](https://collaboration.homeoffice.gov.uk/display/CDP/Live+Incidents)

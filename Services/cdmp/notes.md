@@ -29,4 +29,6 @@ We have provided a secure platform for Advanced Border Control data. Now we're g
 - THere is a very small amount of work still remaining around Live Support and Protective Monitoring, hence the metrics page still showing 1% remaining 
   - I need the Product and PMO team to work with me to finish a suite of reports to provide automatic programme and project status (ie live from jira) including all milestones, risks/issues and dependencies but we'll get there. Done the blockers and Live Incidents reports tho!
  
+[Click here for Blockers Report] (https://collaboration.homeoffice.gov.uk/display/CDP/Blockers)
+
 [Click here for metrics](metrics2.html)

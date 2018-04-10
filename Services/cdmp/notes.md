@@ -1,7 +1,7 @@
 ## Common Data Matching Platform
 
 ### Summary as of 10 Apr 2018
-We have provided a secure platform for Advanced Border Control data. Now we're going to deliver an ingestion pipeline that transforms data to the POLE standard, create some query and matching functionality, allow editing of records and add more security controls that will allow HMPO to be onboarded.
+We have provided a secure platform for Advanced Border Control data. Next we're going to deliver an ingestion pipeline that transforms data to the POLE standard, create some query and matching functionality, allow editing of records and add more security controls that will allow HMPO to be onboarded.
 
 ### What is blocking us
 - our backlog and roadmap have been a little obtuse and hard to read so we're simplifing this, and ensuring it maps to our tenants needs, making it easier for them to see whats done, in progress or coming up next
@@ -16,7 +16,7 @@ We have provided a secure platform for Advanced Border Control data. Now we're g
 - had the first technical show and tell for the developer community
 
 ### About to do/doing
-- continuing work on the july release funcationality
+- continuing work on the July Release functionality
 - create method of connecting any new environments to the Hardware Security Modules
 - complete the programme health check questionairre and invite ABC, HMPO and CDP folk to submit their responses
 - publish and share the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP

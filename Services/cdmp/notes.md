@@ -18,7 +18,6 @@ We have provided a secure platform for Advanced Border Control data. Next we're 
 ### About to do/doing
 - continuing work on the July Release functionality
 - create method of connecting any new environments to the Hardware Security Modules
-- complete the programme health check questionairre and invite ABC, HMPO and CDP folk to submit their responses
 - publish and share the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP
 - have TDSC complete and publish their test strategy (covering functional, security, performance, infrastructure) and what the split/share /overlap between CDP and its tenants is
 

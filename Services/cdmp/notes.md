@@ -12,7 +12,7 @@ We have provided a secure platform for Advanced Border Control data. Now we're g
 ### Just done
 - completed the work so CSOC can provide protective monitoring
 - change the title of releases from numbers (ie "Release 1,2,3") to months (ie "June Release, October Release")
-- intial BA analysis and roadmap tweaks
+- first BA analysis and roadmap tweaks
 
 ### About to do/doing
 - create method of connecting any new environments to the Hardware Security Modules

@@ -9,12 +9,14 @@ We have provided a secure platform for Advanced Border Control data. Next we're 
 ## July Release
 
 ### Just done
+- added a new team member woth the role of technical ambassador who will be helping ensure the right solutions for our current and future partners
 - simplified the roadmap ensuring it maps to our tenants needs, making it easier for them to see whats done, in progress or coming up next - now reviewing it and then finalising
 - continuing work on the July Release functionality
 
 ### About to do/doing
-- complete the psike on best solution for data queries
-- have TDSC complete and publish their test strategy (covering functional, security, performance, infrastructure) and what the split/share /overlap between CDP and its tenants is
+- ensure the KPIs fully understood and visible
+- complete the spike on what is the best solution for querying the data
+- have TDCS complete and publish their test strategy (covering functional, security, performance, infrastructure) and what the split/share/overlap between CDP and its partners is
 - publish and share the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP along with confidence levels and status
 
 ### Things to be aware off

@@ -12,7 +12,7 @@ We have provided a secure platform for Advanced Border Control data. Next we're 
 - added a new team member with the role of 'technical ambassador' who will be working alongside our new BA to help ensure the right solutions for our current and future partners
 - simplified the roadmap ensuring it maps to our tenants needs, making it easier for them to see whats done, in progress or coming up next - now reviewing it and then finalising
 - continuing work on the July Release functionality
-- added a few new [reporting dashboards](https://collaboration.homeoffice.gov.uk/display/CDP/Reporting+Dashboards+-+being+built) - note that tho some of these are still under construction, there is quite a lot of useful detail so worth taking a look
+- added a few new Confluence [reporting dashboards](https://collaboration.homeoffice.gov.uk/display/CDP/Reporting+Dashboards+-+being+built) - note that tho some of these are still under construction, there is quite a lot of useful detail so worth taking a look (if you have access)
 
 ### About to do/doing
 - ensure the KPIs fully understood and visible

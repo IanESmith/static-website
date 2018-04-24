@@ -21,4 +21,4 @@ We have provided a secure platform for Advanced Border Control data. Next we're 
 - publish and share the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP along with confidence levels and status
 
 ### Things to be aware off
-   - metrics for the next release will be available once the roadmap completed
+   - metrics for the next release will be available once the roadmap finalised

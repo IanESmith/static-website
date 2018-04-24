@@ -1,10 +1,10 @@
 ## Common Data Matching Platform
 
 ### Summary as of 24 Apr 2018
-We have provided a secure platform for Advanced Border Control data. Next we're going to deliver an ingestion pipeline that transforms data to the POLE standard, create some query and matching functionality, allow editing of records and add more security controls that will allow HMPO to be onboarded.
+We have provided a secure platform for Advanced Border Control flight data. Next we're going to deliver an ingestion pipeline that transforms data to the POLE standard, create some query and matching functionality, allow editing of records and add more security controls that will allow HMPO to be onboarded.
 
 ### What is blocking us
-- need to ensure that TDCS have their resources (on both CDP and ABC) working to an agreed and coherent test approach. So, we're asking them to ensure this is visible, understood and agreed by CDP and its tenants
+- we need to be assured that TDCS have their resources (on both CDP and ABC) working to an agreed and coherent test approach. So, we're asking them to ensure this is visible, understood and agreed by CDP and its tenants
 
 ## July Release
 

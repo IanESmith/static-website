@@ -9,7 +9,7 @@ We have provided a secure platform for Advanced Border Control data. Next we're 
 ## July Release
 
 ### Just done
-- added a new team member woth the role of technical ambassador who will be helping ensure the right solutions for our current and future partners
+- added a new team member with the role of 'technical ambassador' who will be working alonside our new BA to help ensure the right solutions for our current and future partners
 - simplified the roadmap ensuring it maps to our tenants needs, making it easier for them to see whats done, in progress or coming up next - now reviewing it and then finalising
 - continuing work on the July Release functionality
 

@@ -16,6 +16,7 @@ We have provided a secure platform for Advanced Border Control flight data. Next
 
 ### About to do/doing
 - ensure the KPIs fully understood and visible
+- complete rehearsal, testing and assurance of all protective monitoring processes for Release 1
 - complete the spike on what is the best solution for querying the data
 - have TDCS complete and publish their test strategy (covering functional, security, performance, infrastructure) and what the split/share/overlap between CDP and its partners is
 - publish and share the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP along with confidence levels and status

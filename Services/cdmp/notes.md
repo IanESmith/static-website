@@ -6,13 +6,28 @@ We have provided a secure platform for Advanced Border Control flight data. Next
 ### What is blocking us
 - we need to be assured that TDCS have their resources (on both CDP and ABC) working to an agreed and coherent test approach. So, we're asking them to ensure this is visible, understood and agreed by CDP and its tenants
 
+
+## Graph Spike and 'build the whole thing as a thin slice of working functionality
+
+We are about to complete spiking and developing a full end-to-end working slice of functionality that allows the ingestion, persistence in graph, and querying of ABC’s API/PNR messages. This means we nearly have:
+ - an ingestion pipeline that maps ABC data to POLE, including a basic matching approach to reduce duplicates in the POLE data (allowing ABC to test carrier messages and examine POLE output). 
+- a graph ingest for POLE data that takes the transformed output and stores it in a graph model (allowing our tenants to review how data is stored and specify how they want to access it so CDP can index their data appropriately).
+- provided an API to the POLE data at 2 levels, a simple REST API to search for and retrieve POLE entities, and a more complex API provided by the underlying graph engine.
+- a security implementation that allows tenant authentication in business applications to be propagated to CDP through JWT tokens.
+- a multi-tenant model that allows multiple tenant environments to be deployed on a single CDP environment simplifying tenant requests for additional environments.
+ 
+With this in place, the basics of our July Release are well advanced. We now need to iterate this to complete any remaining functionality, and:
+- finalise the build to reflect changes in the baselined ABC data model and CDP API;
+- build environments that can be made available to tenants;
+- carry out CDP integration, functional and performance testing.
+
+However, as with all spikes, we may also uncover some problems. We'll publish these, if any, once the spike completes this week
+
 ## July Release
 
 ### Just done
-- added a new team member with the role of 'technical ambassador' who will be working alongside our new BA to help ensure the right solutions for our current and future partners
-- simplified the roadmap ensuring it maps to our tenants needs, making it easier for them to see whats done, in progress or coming up next - now reviewing it and then finalising
-- continued work on the July Release functionality
-- added a few new Confluence [reporting dashboards](https://collaboration.homeoffice.gov.uk/display/CDP/Reporting+Dashboards+-+being+built) - note that tho some of these are still under construction, there is quite a lot of useful detail so worth taking a look (if you have access)
+- completed rehearsal, testing and assurance of all protective monitoring processes for Release 1
+- continued the spike on what is the best solution for querying the data. so far we have
 
 ### About to do/doing
 - ensure the KPIs fully understood and visible

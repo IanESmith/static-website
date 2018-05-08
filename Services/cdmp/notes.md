@@ -7,9 +7,9 @@ We have provided a secure platform for Advanced Border Control flight data. Next
 - we need to be assured that TDCS have their resources (on both CDP and ABC) working to an agreed and coherent test approach. So, we're asking them to ensure this is visible, understood and agreed by CDP and its tenants
 
 
-## Graph Spike and 'build the whole thing as a thin slice of working functionality
+## Graph Spike and 'build the whole thing as a thin slice of working functionality'
 
-We are about to complete spiking and developing a full end-to-end working slice of functionality that allows the ingestion, persistence in graph, and querying of ABC’s API/PNR messages. This means we nearly have:
+We are about to complete [spiking](https://www.leadingagile.com/2016/09/whats-a-spike-who-should-enter-it-how-to-word-it/) and developing a full end-to-end working slice of functionality that allows the ingestion, persistence in graph, and querying of ABC’s API/PNR messages. This means we nearly have:
  - an ingestion pipeline that maps ABC data to POLE, including a basic matching approach to reduce duplicates in the POLE data (allowing ABC to test carrier messages and examine POLE output). 
 - a graph ingest for POLE data that takes the transformed output and stores it in a graph model (allowing our tenants to review how data is stored and specify how they want to access it so CDP can index their data appropriately).
 - provided an API to the POLE data at 2 levels, a simple REST API to search for and retrieve POLE entities, and a more complex API provided by the underlying graph engine.
@@ -27,14 +27,16 @@ However, as with all spikes, we may also uncover some problems. We'll publish th
 
 ### Just done
 - completed rehearsal, testing and assurance of all protective monitoring processes for Release 1
-- continued the spike on what is the best solution for querying the data. so far we have
+- continued the spike
+- had a few more rehearsasl of our live support process
+- had our tech ambassador talk to a few more Home Office folk around their needs, and possible benefits, for a common data platform
+- shared the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP along with confidence levels and status with the ABC and CDP SROs (too many abbreviations?)
 
 ### About to do/doing
 - ensure the KPIs fully understood and visible
-- complete rehearsal, testing and assurance of all protective monitoring processes for Release 1
 - complete the spike on what is the best solution for querying the data
 - have TDCS complete and publish their test strategy (covering functional, security, performance, infrastructure) and what the split/share/overlap between CDP and its partners is
-- publish and share the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP along with confidence levels and status
+- migrate the 2018 roadmap from spreadsheet to jira and start publishing progress metrics
 
 ### Things to be aware off
-   - metrics for the next release will be available once the roadmap finalised
+   - metrics will be available w the next sprint notes

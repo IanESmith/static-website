@@ -28,7 +28,7 @@ However, as with all spikes, we may also uncover some problems. We'll publish th
 ### Just done
 - completed rehearsal, testing and assurance of all protective monitoring processes for Release 1
 - continued the spike
-- had a few more rehearsasl of our live support process
+- had a few more rehearsals of our live support process
 - had our tech ambassador talk to a few more Home Office folk around their needs, and possible benefits, for a common data platform
 - shared the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP along with confidence levels and status with the ABC and CDP SROs (too many abbreviations?)
 

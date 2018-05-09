@@ -10,16 +10,16 @@ We have provided a secure platform for Advanced Border Control flight data. Next
 ## Graph Spike and 'build the whole thing as a thin slice of working functionality'
 
 We are about to complete [spiking](https://www.leadingagile.com/2016/09/whats-a-spike-who-should-enter-it-how-to-word-it/) and developing a full end-to-end working slice of functionality that allows the ingestion, persistence in graph, and querying of ABC’s API/PNR messages. This means we nearly have:
- - an ingestion pipeline that maps ABC data to POLE, including a basic matching approach to reduce duplicates in the POLE data (allowing ABC to test carrier messages and examine POLE output). 
-- a graph ingest for POLE data that takes the transformed output and stores it in a graph model (allowing our tenants to review how data is stored and specify how they want to access it so CDP can index their data appropriately).
-- provided an API to the POLE data at 2 levels, a simple REST API to search for and retrieve POLE entities, and a more complex API provided by the underlying graph engine.
-- a security implementation that allows tenant authentication in business applications to be propagated to CDP through JWT tokens.
-- a multi-tenant model that allows multiple tenant environments to be deployed on a single CDP environment simplifying tenant requests for additional environments.
+ - an ingestion pipeline that maps ABC data to POLE, including a basic matching approach to reduce duplicates in the POLE data (allowing ABC to test carrier messages and examine POLE output)
+- a graph ingest for POLE data that takes the transformed output and stores it in a graph model (allowing our tenants to review how data is stored and specify how they want to access it so CDP can index their data appropriately)
+- provided an API to the POLE data at 2 levels, a simple REST API to search for and retrieve POLE entities, and a more complex API provided by the underlying graph engine
+- a security implementation that allows tenant authentication in business applications to be propagated to CDP through JWT tokens
+- a multi-tenant model that allows multiple tenant environments to be deployed on a single CDP environment simplifying tenant requests for additional environments
  
 With this in place, the basics of our July Release are well advanced. We now need to iterate this to complete any remaining functionality, and:
 - finalise the build to reflect changes in the baselined ABC data model and CDP API;
 - build environments that can be made available to tenants;
-- carry out CDP integration, functional and performance testing.
+- carry out CDP integration, functional and performance testing
 
 However, as with all spikes, we may also uncover some problems. We'll publish these, if any, once the spike completes this week
 

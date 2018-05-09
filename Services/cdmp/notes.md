@@ -37,6 +37,7 @@ However, as with all spikes, we may also uncover some problems. We'll publish th
 - complete the spike on what is the best solution for querying the data
 - have TDCS complete and publish their test strategy (covering functional, security, performance, infrastructure) and what the split/share/overlap between CDP and its partners is
 - migrate the 2018 roadmap from spreadsheet to jira and start publishing progress metrics
+- switching off environments when not in use, to save money (without impacting the teams who need to use)
 
 ### Things to be aware off
    - metrics will be available w the next sprint notes

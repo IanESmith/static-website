@@ -33,6 +33,7 @@ However, as with all spikes, we may also uncover some problems. We'll publish th
 - shared the roadmap for 2018 showing all our deliverables for ABC, HMPO and CDP along with confidence levels and status with the ABC and CDP SROs (too many abbreviations?)
 
 ### About to do/doing
+- replace the product manager
 - ensure the KPIs fully understood and visible
 - complete the spike on what is the best solution for querying the data
 - have TDCS complete and publish their test strategy (covering functional, security, performance, infrastructure) and what the split/share/overlap between CDP and its partners is
